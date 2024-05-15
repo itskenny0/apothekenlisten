@@ -3,20 +3,13 @@
     <head>
         <title>Helios Preisliste</title>
         <style>
-            body {background-color: #000; color: #fff; margin: 0; padding: 0; font-family: Arial, sans-serif;}
+            body {background-color: #000; color: #fff;}
             table {width: 100%; border-collapse: collapse;}
             th, td {padding: 8px; text-align: left; border-bottom: 1px solid #ddd;}
             th {background-color: #444; cursor: pointer;}
             .instock {background-color: #2a5;} /* green */
             .outofstock {background-color: #fc3;} /* yellow */
             .instock td, .outofstock td {color: #000;}
-            @media (max-width: 600px) {
-                table {width: 100%;}
-                th, td {padding: 8px 4px; font-size: 12px;}
-                th:nth-child(1), td:nth-child(1),
-                th:nth-child(6), td:nth-child(6),
-                th:nth-child(7), td:nth-child(7) {display: none;}
-            }
         </style>
         <script>
             function sortTable(n, numeric) {
@@ -897,6 +890,10 @@
         </tr>
         
         </table>
+        <script>
+            if (Date.parse(document.lastModified) != 0) 
+                document.write('<p><hr><small><i>Last modified: ' + document.lastModified + '</i></small>');
+        </script>
     </body>
     </html>
     
