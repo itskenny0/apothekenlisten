@@ -1,0 +1,903 @@
+
+    <html>
+    <head>
+        <title>Helios Preisliste</title>
+        <style>
+            body {background-color: #000; color: #fff; margin: 0; padding: 0; font-family: Arial, sans-serif;}
+            table {width: 100%; border-collapse: collapse;}
+            th, td {padding: 8px; text-align: left; border-bottom: 1px solid #ddd;}
+            th {background-color: #444; cursor: pointer;}
+            .instock {background-color: #2a5;} /* green */
+            .outofstock {background-color: #fc3;} /* yellow */
+            .instock td, .outofstock td {color: #000;}
+            @media (max-width: 600px) {
+                table {width: 100%;}
+                th, td {padding: 8px 4px; font-size: 12px;}
+                th:nth-child(1), td:nth-child(1),
+                th:nth-child(6), td:nth-child(6),
+                th:nth-child(7), td:nth-child(7) {display: none;}
+            }
+        </style>
+        <script>
+            function sortTable(n, numeric) {
+                var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+                table = document.getElementById("productTable");
+                switching = true;
+                dir = "asc";
+                while (switching) {
+                    switching = false;
+                    rows = table.rows;
+                    for (i = 1; i < (rows.length - 1); i++) {
+                        shouldSwitch = false;
+                        x = rows[i].getElementsByTagName("TD")[n];
+                        y = rows[i + 1].getElementsByTagName("TD")[n];
+                        if (numeric) {
+                            xContent = parseFloat(x.innerHTML);
+                            yContent = parseFloat(y.innerHTML);
+                        } else {
+                            xContent = x.innerHTML.toLowerCase();
+                            yContent = y.innerHTML.toLowerCase();
+                        }
+                        if (dir == "asc") {
+                            if (xContent > yContent) {
+                                shouldSwitch = true;
+                                break;
+                            }
+                        } else if (dir == "desc") {
+                            if (xContent < yContent) {
+                                shouldSwitch = true;
+                                break;
+                            }
+                        }
+                    }
+                    if (shouldSwitch) {
+                        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                        switching = true;
+                        switchcount++;
+                    } else {
+                        if (switchcount == 0 && dir == "asc") {
+                            dir = "desc";
+                            switching = true;
+                        }
+                    }
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <p>Export generated on: 2024-05-15 16:38:46</p>
+        <table id="productTable">
+            <tr>
+                <th onclick="sortTable(0, false)">Lager</th>
+                <th onclick="sortTable(1, true)">Preis</th>
+                <th onclick="sortTable(2, false)">Name</th>
+                <th onclick="sortTable(3, false)">Kultivar</th>
+                <th onclick="sortTable(4, false)">THC/CBD</th>
+                <th onclick="sortTable(5, false)">Genetik</th>
+                <th>Link</th>
+            </tr>
+    
+        <tr class="instock">
+            <td>instock</td>
+            <td>5.5</td>
+            <td>enua 22/1 JFG CA</td>
+            <td>Jet Fuel Gelato</td>
+            <td>22/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/enua-22-1-jfg-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>5.9</td>
+            <td>Remexian 22/1 HUW</td>
+            <td>Humble Warrior</td>
+            <td>22/1</td>
+            <td>Hybrid, Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/remexian-22-1-huw/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.5</td>
+            <td>enua 22/1 BCP CA</td>
+            <td>Black Cherry Punch</td>
+            <td>22/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/enua-22-1-bcp-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.5</td>
+            <td>Nimbus easy 24/1 La Sage</td>
+            <td>La Sage</td>
+            <td>24/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/nimbus-easy-24-1-la-sage/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.5</td>
+            <td>Tilray THC22 SP Island Sweet Skunk</td>
+            <td>Island Sweet Skunk</td>
+            <td>22/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/tilray-thc22-sp-island-sweet-skunk/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.5</td>
+            <td>Tilray THC22 Spotlight Porto Galaxy</td>
+            <td>Galaxy Walker OG</td>
+            <td>22/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/tilray-thc25-spotlight-porto-2/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.5</td>
+            <td>Tilray THC22 Spotlight Porto Purps</td>
+            <td>Purps</td>
+            <td>22/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/tilray-thc22-spotlight-porto-purps/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>6.9</td>
+            <td>Canify 20/1 UY PDB</td>
+            <td>Purple Dog Bud</td>
+            <td>20/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/canify-20-1-uy-pdb/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.9</td>
+            <td>Canify 22/1 PT Headband</td>
+            <td>Headband</td>
+            <td>22/1</td>
+            <td>Hybrid, Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/canify-22-1-pt-headband/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.9</td>
+            <td>Canify 22/1 PT Pink Kush</td>
+            <td>Pink Kush</td>
+            <td>22/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/canify-flos-22-1-pt-2/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.9</td>
+            <td>enua 25/1 CA CCK</td>
+            <td>Cold Creek Kush</td>
+            <td>25/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/enua-25-1-ca-cck/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.9</td>
+            <td>IMC 17/1 T01</td>
+            <td>Hindu Kush</td>
+            <td>17/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/imc-17-1/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.9</td>
+            <td>IMC 25/1 T04</td>
+            <td>Strawberry OG</td>
+            <td>25/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/imc-25-1-t04/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>6.9</td>
+            <td>Remexian 25/1 GG4</td>
+            <td>Gorilla Glue #4</td>
+            <td>25/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/remexian-25-1-gg4/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>6.9</td>
+            <td>Tilray THC25 Spotlight Porto Purps</td>
+            <td>Purps</td>
+            <td>25/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/tilray-thc25-spotlight-porto/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.5</td>
+            <td>Aleph Amber 26/1</td>
+            <td>Mango Kush</td>
+            <td>26/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/aleph-amber-26-1/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.5</td>
+            <td>Avaay 20/1 CK</td>
+            <td>Critical Kush</td>
+            <td>20/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-20-1-ck/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.9</td>
+            <td>Aleph Citrin 23/1</td>
+            <td>Mimosa Evo</td>
+            <td>23/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/aleph-citrin-23-1/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.9</td>
+            <td>Avaay 22/1 LSB</td>
+            <td>Lemon Sherbet</td>
+            <td>22/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-22-1-lsb/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>7.9</td>
+            <td>Demecan Sunshine Cresina 24:01</td>
+            <td>Creemy Kee's</td>
+            <td>24/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/demecan-sunshine-cresina-2401/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.9</td>
+            <td>Drapalin 25/1 GM Lagom</td>
+            <td>Gush Mints</td>
+            <td>25/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/drapalin-25-1-gm-lagom/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.9</td>
+            <td>enua 21/1 SG CA</td>
+            <td>Sherbert Glue</td>
+            <td>21/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/enua-21-1-sg-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.9</td>
+            <td>enua 25/1 SC CA</td>
+            <td>Strawberry Cake</td>
+            <td>25/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/enua-25-1-sc-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.9</td>
+            <td>enua 25/1 SLC CA</td>
+            <td>Slurricane</td>
+            <td>25/1</td>
+            <td>Hybrid, Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/enua-25-1-slc-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.9</td>
+            <td>enua 27/1 CA CCK</td>
+            <td>Cold Creek Kush</td>
+            <td>27/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/enua-27-1-cck-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>7.9</td>
+            <td>IMC GGA THC22</td>
+            <td>Purple Grape</td>
+            <td>22/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/imc-gga-thc22/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>8.9</td>
+            <td>420 Evolution 22/1 CA MAC</td>
+            <td>Miracle Alien Cookies</td>
+            <td>22/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/420-evolution-22-1-ca-mac/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>8.9</td>
+            <td>420 Natural 20/1 CA GG4</td>
+            <td>Gorilla Glue 4</td>
+            <td>20/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/420-natural-20-1-ca-gorilla-glue/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>8.9</td>
+            <td>Avaay 23/1 BKR</td>
+            <td>Black Krush</td>
+            <td>23/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-23-1-bkr/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>8.9</td>
+            <td>Avaay 23/1 PYC</td>
+            <td>Peyote Critical</td>
+            <td>23/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-23-1-pyc/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>8.9</td>
+            <td>Avaay 26/1 SK</td>
+            <td>Sour OG Kush</td>
+            <td>26/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-24-1-sk-kopie/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>8.9</td>
+            <td>BOTANICS Purple Cream 22/1</td>
+            <td>Purple Ice Water</td>
+            <td>22/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/botanics-purple-cream-22-1/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>8.9</td>
+            <td>GM Supernova 25:01</td>
+            <td>Slurricane X Platinum Kush Breath</td>
+            <td>25/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/gm-supernova-2501/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>8.9</td>
+            <td>MedMen BCP T25</td>
+            <td>Black Cherry Punch</td>
+            <td>25/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/medmen-bcp-t25/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>8.9</td>
+            <td>Nimbus 22/1 RZM</td>
+            <td>Runtz Mintz by Fidel's Seeds Co.</td>
+            <td>22/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/nimbus-22-1-rzm/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>8.9</td>
+            <td>RE:Cannis 9,5/10,5</td>
+            <td>Midnight</td>
+            <td>9,5/10,5</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/recannis-95-105/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.5</td>
+            <td>27/1 N!CE S</td>
+            <td>Strawberry Banana</td>
+            <td>27/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/27-1-nce-s/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.5</td>
+            <td>Drapalin 24/1 Bafokeng Choice</td>
+            <td>Bafokeng Choice</td>
+            <td>24/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/drapalin-24-1-bafokeng-choice/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.5</td>
+            <td>RE:Cannis 16/1 Sativa</td>
+            <td>Alaska</td>
+            <td>16/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/recannis-16-1-sativa-alaska/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.9</td>
+            <td>Aurora Typ 1</td>
+            <td>Island Sweet Skunk</td>
+            <td>19/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/aurora-typ-1/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.9</td>
+            <td>Avaay 12/8 CAN</td>
+            <td>Cannatonic</td>
+            <td>12/8</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-12-8-can/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.9</td>
+            <td>Cannamedical Sativa forte NM Wedding Tree</td>
+            <td>Wedding Tree</td>
+            <td>23/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/cannamedical-sativa-forte-nm/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.9</td>
+            <td>Demecan Typ 1</td>
+            <td>Bubba Kush</td>
+            <td>21/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/demecan-typ-1/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.9</td>
+            <td>Demecan Typ 2</td>
+            <td>Orange Velvet</td>
+            <td>16/1</td>
+            <td>Hybrid, Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/demecan-typ-2/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.9</td>
+            <td>GM Colour of Space 28:01</td>
+            <td>Apple Fritter X Purple Punch</td>
+            <td>28/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/gm-colour-of-space-2801/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>9.9</td>
+            <td>Remexian 24/1 GRG</td>
+            <td>Grape Galena</td>
+            <td>24/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/remexian-24-1-grg-grape-galena/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>9.9</td>
+            <td>Therismos 28/1 SDK</td>
+            <td>Sensi Double Kush</td>
+            <td>28/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/therismos-28-1-sdk/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>9.9</td>
+            <td>Tilray THC15 SP Blue Dream</td>
+            <td>Blue Dream</td>
+            <td>15/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/tilray-thc15-spotlight-porto-blue-dream/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>9.9</td>
+            <td>Tilray THC15 SP Girls Scout Cookies</td>
+            <td>Girls Scout Cookies</td>
+            <td>15/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/tilray-thc15-spotlight-porto-girls-scout-cookies/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>10.5</td>
+            <td>Demecan CRAFT T4N-G 25:01 Banjo</td>
+            <td>Banjo</td>
+            <td>25/1</td>
+            <td>Hybrid, Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/demecan-craft-t4n-g-2501-banjo/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>10.9</td>
+            <td>420 Evolution 30/1 CA WES</td>
+            <td>Wedding Singer</td>
+            <td>30/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/420-evolution-30-1-ca-wes/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>10.9</td>
+            <td>Avaay 27/1 SCG</td>
+            <td>Super Citra G.</td>
+            <td>27/1</td>
+            <td>Hybrid, Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-27-1-scg/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>10.9</td>
+            <td>Demecan CRAFT 25:01 Sky Pie</td>
+            <td>Sky Pie</td>
+            <td>25/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/demecan-craft-sky/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>10.9</td>
+            <td>Remexian 30/1 GMO: GMO Breath</td>
+            <td>GMO Breath</td>
+            <td>30/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/remexian-30-1-gmo-gmo-breath/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>10.9</td>
+            <td>Therismos 30/1 ATG</td>
+            <td>Atlantic Glue GG4</td>
+            <td>30/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/therismos-30-1-atg/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>11.5</td>
+            <td>Avaay Signature 23/1 MC</td>
+            <td>Mandarin Cookies</td>
+            <td>23/1</td>
+            <td>Hybrid, Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-signature-23-1-mc/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>11.5</td>
+            <td>Avaay Signature 7/11 GCO</td>
+            <td>Green Croc Orange</td>
+            <td>7/11</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-signature-7-11-gco/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>11.9</td>
+            <td>420 Evolution 27/1 CA ICC</td>
+            <td>Ice Cream Cake x Kush Mints</td>
+            <td>27/1</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/420-evolution-27-1-ca-icc/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>11.9</td>
+            <td>enua 22/1 JLSY CA</td>
+            <td>Jealousy</td>
+            <td>22/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/enua-22-1-jlsy-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>11.9</td>
+            <td>enua 22/1 MAC F CA</td>
+            <td>MacFlurry</td>
+            <td>22/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/enua-20-1-mac-f-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>11.9</td>
+            <td>Pedanios 18/1 TNG-CA</td>
+            <td>Tangerine Dream</td>
+            <td>18/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/pedanios-18-1-tng-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>11.9</td>
+            <td>Pedanios 22/1 DNK</td>
+            <td>Ghost Train Haze</td>
+            <td>22/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/pedanios-22-1-dnk/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>11.9</td>
+            <td>Pedanios 24/1 LAC-CA</td>
+            <td>LA Confidential</td>
+            <td>24/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/pedanios-24-1-lac-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>11.9</td>
+            <td>Pedanios 26/1 EHD-CA</td>
+            <td>Electric Honeydew</td>
+            <td>26/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/pedanios-26-1-ehd-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>12.5</td>
+            <td>Avaay Signature 28/1 PG</td>
+            <td>Platinum Garlic</td>
+            <td>28/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-signature-28-1-pg/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>12.5</td>
+            <td>Avaay Signature 28/1 WB</td>
+            <td>Waffle Bites</td>
+            <td>28/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-28-1-wb/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>12.5</td>
+            <td>Demecan 30:01 AG Epic Drop</td>
+            <td>Guava Barz</td>
+            <td>30/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/demecan-3001-epic-drop/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>12.5</td>
+            <td>Demecan CRAFT 31:01 FCF</td>
+            <td>First Class Funk</td>
+            <td>31/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/demecan-3101-fcf-first-class-funk/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>12.5</td>
+            <td>Demecan CRAFT Walkie Talkie 31:01</td>
+            <td>Sugar Cake</td>
+            <td>31/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/demecan-craft-walkie-talkie-3101/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>12.5</td>
+            <td>Pedanios 10/10 EQI-CA</td>
+            <td>EQUIPOSA</td>
+            <td>10/10</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/pedanios-10-10-eqi-ca/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>13.5</td>
+            <td>Aurora 22/1 DNK</td>
+            <td>Delahaze</td>
+            <td>22/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/aurora-22-1-dnk/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>13.5</td>
+            <td>Avaay Signature 30/1 CBX</td>
+            <td>Chatterbox</td>
+            <td>30/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/avaay-signature-30-1-cbx/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>13.5</td>
+            <td>Peace Naturals 27/1 CB</td>
+            <td>Cocoa Bomba</td>
+            <td>27/1</td>
+            <td>Hybrid, Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/peace-naturals-27-1-cb/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>13.9</td>
+            <td>420 Evolution 30/1 CA BUL</td>
+            <td>Bucket List</td>
+            <td>30/1</td>
+            <td>Hybrid, Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/420-evolution-30-1-ca-bul/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>13.9</td>
+            <td>Demecan 22:01 Florestura</td>
+            <td>Super Haze x Amnesia</td>
+            <td>22/1</td>
+            <td>Hybrid, Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/demecan-2201-florestura/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>14.9</td>
+            <td>Cannamedical Indica Forte</td>
+            <td>El Jefe</td>
+            <td>24/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/cannamedical-indica-forte/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>14.9</td>
+            <td>Cannamedical Sativa Classic</td>
+            <td>Strawberry Ice</td>
+            <td>20/1</td>
+            <td>Sativa</td>
+            <td><a href="https://helios-cannabis.de/sortiment/cannamedical-sativa-classic/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>14.9</td>
+            <td>Canopy KMI 28</td>
+            <td>Kush Mint</td>
+            <td>28/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/canopy-kmi-28/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>14.9</td>
+            <td>Canopy Krypton 25</td>
+            <td>Captain Krypt OG x Chemdawg 91</td>
+            <td>25/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/canopy-krypton-25/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>14.9</td>
+            <td>Canopy OGD 25</td>
+            <td>OG Deluxe</td>
+            <td>25/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/canopy-ogd-25/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="outofstock">
+            <td>onbackorder</td>
+            <td>14.9</td>
+            <td>Canopy TCK 27</td>
+            <td>Tiger Cake</td>
+            <td>27/1</td>
+            <td>Indica</td>
+            <td><a href="https://helios-cannabis.de/sortiment/canopy-tck-27/">Zum Produkt</a></td>
+        </tr>
+        
+        <tr class="instock">
+            <td>instock</td>
+            <td>15.9</td>
+            <td>Tilray THC9:CBD9 No 2</td>
+            <td>Warlock CBD</td>
+            <td>9/9</td>
+            <td>Hybrid</td>
+            <td><a href="https://helios-cannabis.de/sortiment/tilray-thc9-cbd9-1/">Zum Produkt</a></td>
+        </tr>
+        
+        </table>
+    </body>
+    </html>
+    
