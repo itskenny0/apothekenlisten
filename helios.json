@@ -306,6 +306,15 @@
     "Link": "https://helios-cannabis.de/sortiment/27-1-nce-s/"
   },
   {
+    "Lager": "onbackorder",
+    "Name": "Drapalin 25/1 GM Lagom",
+    "Kultivar": "Gush Mints",
+    "THC/CBD": "25/1",
+    "Genetik": "Hybrid, Indica",
+    "Preis": 9.5,
+    "Link": "https://helios-cannabis.de/sortiment/drapalin-25-1-gm-lagom/"
+  },
+  {
     "Lager": "instock",
     "Name": "RE:Cannis 16/1 Sativa",
     "Kultivar": "Alaska",
@@ -358,15 +367,6 @@
     "Genetik": "Hybrid, Sativa",
     "Preis": 9.9,
     "Link": "https://helios-cannabis.de/sortiment/demecan-typ-2/"
-  },
-  {
-    "Lager": "onbackorder",
-    "Name": "Drapalin 25/1 GM Lagom",
-    "Kultivar": "Gush Mints",
-    "THC/CBD": "25/1",
-    "Genetik": "Hybrid, Indica",
-    "Preis": 9.9,
-    "Link": "https://helios-cannabis.de/sortiment/drapalin-25-1-gm-lagom/"
   },
   {
     "Lager": "instock",
