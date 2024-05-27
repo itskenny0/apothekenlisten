@@ -253,6 +253,15 @@
   },
   {
     "Lager": "instock",
+    "Name": "BOTANICS Golden Ace 20/1",
+    "Kultivar": "Orange Panties",
+    "THC/CBD": "20/1",
+    "Genetik": "Hybrid",
+    "Preis": 8.9,
+    "Link": "https://helios-cannabis.de/sortiment/botanics-golden-ace-20-1/"
+  },
+  {
+    "Lager": "instock",
     "Name": "BOTANICS Purple Cream 22/1",
     "Kultivar": "Purple Ice Water",
     "THC/CBD": "22/1",
@@ -370,15 +379,6 @@
   },
   {
     "Lager": "instock",
-    "Name": "GM Colour of Space 28:01",
-    "Kultivar": "Apple Fritter X Purple Punch",
-    "THC/CBD": "28/1",
-    "Genetik": "Hybrid, Indica",
-    "Preis": 9.9,
-    "Link": "https://helios-cannabis.de/sortiment/gm-colour-of-space-2801/"
-  },
-  {
-    "Lager": "instock",
     "Name": "Therismos 28/1 SDK",
     "Kultivar": "Sensi Double Kush",
     "THC/CBD": "28/1",
@@ -405,13 +405,13 @@
     "Link": "https://helios-cannabis.de/sortiment/tilray-thc15-spotlight-porto-girls-scout-cookies/"
   },
   {
-    "Lager": "onbackorder",
-    "Name": "Demecan CRAFT T4N-G 25:01 Banjo",
-    "Kultivar": "Banjo",
-    "THC/CBD": "25/1",
-    "Genetik": "Hybrid, Sativa",
+    "Lager": "instock",
+    "Name": "GM Colour of Space 28:01",
+    "Kultivar": "Apple Fritter X Purple Punch",
+    "THC/CBD": "28/1",
+    "Genetik": "Hybrid, Indica",
     "Preis": 10.5,
-    "Link": "https://helios-cannabis.de/sortiment/demecan-craft-t4n-g-2501-banjo/"
+    "Link": "https://helios-cannabis.de/sortiment/gm-colour-of-space-2801/"
   },
   {
     "Lager": "instock",
