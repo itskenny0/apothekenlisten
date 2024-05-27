@@ -117,6 +117,15 @@
     "Link": "https://helios-cannabis.de/sortiment/imc-25-1-t04/"
   },
   {
+    "Lager": "onbackorder",
+    "Name": "Remexian 25/1 GG4",
+    "Kultivar": "Gorilla Glue #4",
+    "THC/CBD": "25/1",
+    "Genetik": "Hybrid, Indica",
+    "Preis": 6.9,
+    "Link": "https://helios-cannabis.de/sortiment/remexian-25-1-gg4/"
+  },
+  {
     "Lager": "instock",
     "Name": "Aleph Amber 26/1",
     "Kultivar": "Mango Kush",
@@ -315,7 +324,7 @@
     "Link": "https://helios-cannabis.de/sortiment/27-1-nce-s/"
   },
   {
-    "Lager": "onbackorder",
+    "Lager": "instock",
     "Name": "Drapalin 25/1 GM Lagom",
     "Kultivar": "Gush Mints",
     "THC/CBD": "25/1",
@@ -403,6 +412,15 @@
     "Genetik": "Hybrid",
     "Preis": 9.9,
     "Link": "https://helios-cannabis.de/sortiment/tilray-thc15-spotlight-porto-girls-scout-cookies/"
+  },
+  {
+    "Lager": "instock",
+    "Name": "420 Natural 22/1 CA GG4",
+    "Kultivar": "Gorilla Glue 4",
+    "THC/CBD": "22/1",
+    "Genetik": "Hybrid",
+    "Preis": 10.5,
+    "Link": "https://helios-cannabis.de/sortiment/420-natural-22-1-ca/"
   },
   {
     "Lager": "instock",
