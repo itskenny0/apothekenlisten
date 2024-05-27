@@ -144,7 +144,7 @@
     "Link": "https://helios-cannabis.de/sortiment/avaay-20-1-ck/"
   },
   {
-    "Lager": "instock",
+    "Lager": "onbackorder",
     "Name": "Aleph Citrin 23/1",
     "Kultivar": "Mimosa Evo",
     "THC/CBD": "23/1",
@@ -315,7 +315,7 @@
     "Link": "https://helios-cannabis.de/sortiment/recannis-95-105/"
   },
   {
-    "Lager": "onbackorder",
+    "Lager": "instock",
     "Name": "27/1 N!CE S",
     "Kultivar": "Strawberry Banana",
     "THC/CBD": "27/1",
