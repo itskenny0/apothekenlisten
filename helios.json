@@ -127,6 +127,15 @@
   },
   {
     "Lager": "instock",
+    "Name": "Tilray THC25 Spotlight Porto Purps",
+    "Kultivar": "Purps",
+    "THC/CBD": "25/1",
+    "Genetik": "Hybrid",
+    "Preis": 6.9,
+    "Link": "https://helios-cannabis.de/sortiment/tilray-thc25-spotlight-porto/"
+  },
+  {
+    "Lager": "instock",
     "Name": "Avaay 20/1 CK",
     "Kultivar": "Critical Kush",
     "THC/CBD": "20/1",
@@ -648,7 +657,7 @@
     "Link": "https://helios-cannabis.de/sortiment/pedanios-10-10-eqi-ca/"
   },
   {
-    "Lager": "instock",
+    "Lager": "onbackorder",
     "Name": "420 Evolution 30/1 CA BUL",
     "Kultivar": "Bucket List",
     "THC/CBD": "30/1",
