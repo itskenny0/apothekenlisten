@@ -495,15 +495,6 @@
     "Link": "https://helios-cannabis.de/sortiment/remexian-30-1-gmo-gmo-breath/"
   },
   {
-    "Lager": "onbackorder",
-    "Name": "Avaay Signature 23/1 MC",
-    "Kultivar": "Mandarin Cookies",
-    "THC/CBD": "23/1",
-    "Genetik": "Hybrid, Sativa",
-    "Preis": 11.5,
-    "Link": "https://helios-cannabis.de/sortiment/avaay-signature-23-1-mc/"
-  },
-  {
     "Lager": "instock",
     "Name": "Avaay Signature 7/11 GCO",
     "Kultivar": "Green Croc Orange",
@@ -594,7 +585,7 @@
     "Link": "https://helios-cannabis.de/sortiment/avaay-28-1-wb/"
   },
   {
-    "Lager": "instock",
+    "Lager": "onbackorder",
     "Name": "Demecan 30:01 AG Epic Drop",
     "Kultivar": "Guava Barz",
     "THC/CBD": "30/1",
@@ -691,33 +682,6 @@
     "Genetik": "Sativa",
     "Preis": 14.9,
     "Link": "https://helios-cannabis.de/sortiment/cannamedical-sativa-classic/"
-  },
-  {
-    "Lager": "onbackorder",
-    "Name": "Canopy KMI 28",
-    "Kultivar": "Kush Mint",
-    "THC/CBD": "28/1",
-    "Genetik": "Indica",
-    "Preis": 14.9,
-    "Link": "https://helios-cannabis.de/sortiment/canopy-kmi-28/"
-  },
-  {
-    "Lager": "onbackorder",
-    "Name": "Canopy OGD 25",
-    "Kultivar": "OG Deluxe",
-    "THC/CBD": "25/1",
-    "Genetik": "Indica",
-    "Preis": 14.9,
-    "Link": "https://helios-cannabis.de/sortiment/canopy-ogd-25/"
-  },
-  {
-    "Lager": "onbackorder",
-    "Name": "Canopy TCK 27",
-    "Kultivar": "Tiger Cake",
-    "THC/CBD": "27/1",
-    "Genetik": "Indica",
-    "Preis": 14.9,
-    "Link": "https://helios-cannabis.de/sortiment/canopy-tck-27/"
   },
   {
     "Lager": "instock",
