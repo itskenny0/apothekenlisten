@@ -19,15 +19,6 @@
   },
   {
     "Lager": "instock",
-    "Name": "Nimbus easy 24/1 La Sage",
-    "Kultivar": "La Sage",
-    "THC/CBD": "24/1",
-    "Genetik": "Sativa",
-    "Preis": 6.5,
-    "Link": "https://helios-cannabis.de/sortiment/nimbus-easy-24-1-la-sage/"
-  },
-  {
-    "Lager": "instock",
     "Name": "Remexian 25/1 FLC",
     "Kultivar": "Frosted Lemon Cake",
     "THC/CBD": "25/1",
@@ -142,15 +133,6 @@
     "Genetik": "Hybrid, Indica",
     "Preis": 7.5,
     "Link": "https://helios-cannabis.de/sortiment/avaay-20-1-ck/"
-  },
-  {
-    "Lager": "onbackorder",
-    "Name": "Aleph Citrin 23/1",
-    "Kultivar": "Mimosa Evo",
-    "THC/CBD": "23/1",
-    "Genetik": "Hybrid",
-    "Preis": 7.9,
-    "Link": "https://helios-cannabis.de/sortiment/aleph-citrin-23-1/"
   },
   {
     "Lager": "instock",
@@ -495,7 +477,7 @@
     "Link": "https://helios-cannabis.de/sortiment/avaay-signature-7-11-gco/"
   },
   {
-    "Lager": "instock",
+    "Lager": "onbackorder",
     "Name": "420 Evolution 27/1 CA ICC",
     "Kultivar": "Ice Cream Cake x Kush Mints",
     "THC/CBD": "27/1",
