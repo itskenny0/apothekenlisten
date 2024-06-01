@@ -19,6 +19,15 @@
   },
   {
     "Lager": "instock",
+    "Name": "enua 22/1 BCP CA",
+    "Kultivar": "Black Cherry Punch",
+    "THC/CBD": "22/1",
+    "Genetik": "Hybrid",
+    "Preis": 6.5,
+    "Link": "https://helios-cannabis.de/sortiment/enua-22-1-bcp-ca/"
+  },
+  {
+    "Lager": "instock",
     "Name": "Remexian 25/1 FLC",
     "Kultivar": "Frosted Lemon Cake",
     "THC/CBD": "25/1",
@@ -549,7 +558,7 @@
     "Link": "https://helios-cannabis.de/sortiment/avaay-28-1-wb/"
   },
   {
-    "Lager": "onbackorder",
+    "Lager": "instock",
     "Name": "Demecan 30:01 AG Epic Drop",
     "Kultivar": "Guava Barz",
     "THC/CBD": "30/1",
