@@ -108,15 +108,6 @@
     "Link": "https://helios-cannabis.de/sortiment/imc-17-1/"
   },
   {
-    "Lager": "instock",
-    "Name": "IMC 25/1 T04",
-    "Kultivar": "Strawberry OG",
-    "THC/CBD": "25/1",
-    "Genetik": "Indica",
-    "Preis": 6.9,
-    "Link": "https://helios-cannabis.de/sortiment/imc-25-1-t04/"
-  },
-  {
     "Lager": "onbackorder",
     "Name": "Tilray THC25 Spotlight Porto Island Sweet Skunk",
     "Kultivar": "Island Sweet Skunk",
@@ -142,6 +133,15 @@
     "Genetik": "Hybrid, Indica",
     "Preis": 7.5,
     "Link": "https://helios-cannabis.de/sortiment/avaay-20-1-ck/"
+  },
+  {
+    "Lager": "instock",
+    "Name": "IMC 25/1 T04",
+    "Kultivar": "Strawberry OG",
+    "THC/CBD": "25/1",
+    "Genetik": "Indica",
+    "Preis": 7.5,
+    "Link": "https://helios-cannabis.de/sortiment/imc-25-1-t04/"
   },
   {
     "Lager": "instock",
@@ -214,15 +214,6 @@
     "Genetik": "Indica",
     "Preis": 8.9,
     "Link": "https://helios-cannabis.de/sortiment/avaay-23-1-bkr/"
-  },
-  {
-    "Lager": "instock",
-    "Name": "Avaay 23/1 PYC",
-    "Kultivar": "Peyote Critical",
-    "THC/CBD": "23/1",
-    "Genetik": "Indica",
-    "Preis": 8.9,
-    "Link": "https://helios-cannabis.de/sortiment/avaay-23-1-pyc/"
   },
   {
     "Lager": "instock",
