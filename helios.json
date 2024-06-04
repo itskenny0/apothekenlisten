@@ -459,7 +459,7 @@
     "Link": "https://helios-cannabis.de/sortiment/avaay-signature-7-11-gco/"
   },
   {
-    "Lager": "instock",
+    "Lager": "onbackorder",
     "Name": "420 Evolution 27/1 CA ICC",
     "Kultivar": "Ice Cream Cake x Kush Mints",
     "THC/CBD": "27/1",
@@ -493,6 +493,15 @@
     "Genetik": "Sativa",
     "Preis": 11.9,
     "Link": "https://helios-cannabis.de/sortiment/pedanios-18-1-tng-ca/"
+  },
+  {
+    "Lager": "instock",
+    "Name": "Pedanios 22/1",
+    "Kultivar": "Ghost Train Haze",
+    "THC/CBD": "22/1",
+    "Genetik": "Sativa",
+    "Preis": 11.9,
+    "Link": "https://helios-cannabis.de/sortiment/pedanios-22-1-dnk/"
   },
   {
     "Lager": "instock",
@@ -531,7 +540,7 @@
     "Link": "https://helios-cannabis.de/sortiment/demecan-3001-epic-drop/"
   },
   {
-    "Lager": "onbackorder",
+    "Lager": "instock",
     "Name": "Demecan CRAFT 31:01 FCF",
     "Kultivar": "First Class Funk",
     "THC/CBD": "31/1",
@@ -592,15 +601,6 @@
     "Genetik": "Hybrid",
     "Preis": 13.5,
     "Link": "https://helios-cannabis.de/sortiment/pedanios-10-10-eqi-ca/"
-  },
-  {
-    "Lager": "instock",
-    "Name": "420 Evolution 30/1 CA BUL",
-    "Kultivar": "Bucket List",
-    "THC/CBD": "30/1",
-    "Genetik": "Hybrid, Sativa",
-    "Preis": 13.9,
-    "Link": "https://helios-cannabis.de/sortiment/420-evolution-30-1-ca-bul/"
   },
   {
     "Lager": "instock",
