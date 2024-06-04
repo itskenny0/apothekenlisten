@@ -28,15 +28,6 @@
   },
   {
     "Lager": "instock",
-    "Name": "Remexian 25/1 FLC",
-    "Kultivar": "Frosted Lemon Cake",
-    "THC/CBD": "25/1",
-    "Genetik": "Hybrid",
-    "Preis": 6.5,
-    "Link": "https://helios-cannabis.de/sortiment/remexian-25-1-2/"
-  },
-  {
-    "Lager": "instock",
     "Name": "Tilray THC22 SP Island Sweet Skunk",
     "Kultivar": "Island Sweet Skunk",
     "THC/CBD": "22/1",
@@ -559,6 +550,15 @@
   },
   {
     "Lager": "instock",
+    "Name": "Cannamedical 24/1 LLY",
+    "Kultivar": "Legendary Larry",
+    "THC/CBD": "24/1",
+    "Genetik": "Hybrid, Indica",
+    "Preis": 12.9,
+    "Link": "https://helios-cannabis.de/sortiment/cannamedical-24-1-lly/"
+  },
+  {
+    "Lager": "instock",
     "Name": "Aurora 22/1 DNK",
     "Kultivar": "Delahaze",
     "THC/CBD": "22/1",
@@ -619,15 +619,6 @@
     "Genetik": "Indica",
     "Preis": 14.9,
     "Link": "https://helios-cannabis.de/sortiment/cannamedical-indica-forte/"
-  },
-  {
-    "Lager": "instock",
-    "Name": "Cannamedical Sativa Classic",
-    "Kultivar": "Strawberry Ice",
-    "THC/CBD": "20/1",
-    "Genetik": "Sativa",
-    "Preis": 14.9,
-    "Link": "https://helios-cannabis.de/sortiment/cannamedical-sativa-classic/"
   },
   {
     "Lager": "instock",
