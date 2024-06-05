@@ -19,6 +19,15 @@
   },
   {
     "Lager": "instock",
+    "Name": "Remexian 22/1 HUW",
+    "Kultivar": "Humble Warrior",
+    "THC/CBD": "22/1",
+    "Genetik": "Hybrid, Sativa",
+    "Preis": 5.9,
+    "Link": "https://helios-cannabis.de/sortiment/remexian-22-1-huw/"
+  },
+  {
+    "Lager": "instock",
     "Name": "enua 22/1 BCP CA",
     "Kultivar": "Black Cherry Punch",
     "THC/CBD": "22/1",
@@ -214,15 +223,6 @@
     "Genetik": "Indica",
     "Preis": 8.9,
     "Link": "https://helios-cannabis.de/sortiment/avaay-23-1-bkr/"
-  },
-  {
-    "Lager": "instock",
-    "Name": "Avaay 23/1 RG",
-    "Kultivar": "Royal Gorilla",
-    "THC/CBD": "23/1",
-    "Genetik": "Hybrid, Sativa",
-    "Preis": 8.9,
-    "Link": "https://helios-cannabis.de/sortiment/avaay-23-1-rg/"
   },
   {
     "Lager": "instock",
