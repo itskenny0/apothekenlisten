@@ -45,15 +45,6 @@
     "Link": "https://helios-cannabis.de/sortiment/tilray-thc22-spotlight-porto-purps/"
   },
   {
-    "Lager": "onbackorder",
-    "Name": "Canify 20/1 UY PDB",
-    "Kultivar": "Purple Dog Bud",
-    "THC/CBD": "20/1",
-    "Genetik": "Hybrid",
-    "Preis": 6.9,
-    "Link": "https://helios-cannabis.de/sortiment/canify-20-1-uy-pdb/"
-  },
-  {
     "Lager": "instock",
     "Name": "Canify 22/1 PT Headband",
     "Kultivar": "Headband",
@@ -61,15 +52,6 @@
     "Genetik": "Hybrid, Sativa",
     "Preis": 6.9,
     "Link": "https://helios-cannabis.de/sortiment/canify-22-1-pt-headband/"
-  },
-  {
-    "Lager": "instock",
-    "Name": "enua 25/1 CA CCK",
-    "Kultivar": "Cold Creek Kush",
-    "THC/CBD": "25/1",
-    "Genetik": "Hybrid, Indica",
-    "Preis": 6.9,
-    "Link": "https://helios-cannabis.de/sortiment/enua-25-1-ca-cck/"
   },
   {
     "Lager": "instock",
@@ -106,6 +88,15 @@
     "Genetik": "Hybrid",
     "Preis": 6.9,
     "Link": "https://helios-cannabis.de/sortiment/tilray-thc25-spotlight-porto/"
+  },
+  {
+    "Lager": "onbackorder",
+    "Name": "Aleph Amber 26/1",
+    "Kultivar": "Mango Kush",
+    "THC/CBD": "26/1",
+    "Genetik": "Indica",
+    "Preis": 7.5,
+    "Link": "https://helios-cannabis.de/sortiment/aleph-amber-26-1/"
   },
   {
     "Lager": "instock",
