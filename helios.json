@@ -522,15 +522,6 @@
     "Link": "https://helios-cannabis.de/sortiment/aurora-22-1-dnk/"
   },
   {
-    "Lager": "instock",
-    "Name": "Avaay Signature 30/1 CBX",
-    "Kultivar": "Chatterbox",
-    "THC/CBD": "30/1",
-    "Genetik": "Hybrid, Indica",
-    "Preis": 13.5,
-    "Link": "https://helios-cannabis.de/sortiment/avaay-signature-30-1-cbx/"
-  },
-  {
     "Lager": "onbackorder",
     "Name": "Peace Naturals 27/1 CB",
     "Kultivar": "Cocoa Bomba",
@@ -547,6 +538,15 @@
     "Genetik": "Hybrid",
     "Preis": 13.5,
     "Link": "https://helios-cannabis.de/sortiment/pedanios-10-10-eqi-ca/"
+  },
+  {
+    "Lager": "instock",
+    "Name": "Avaay Signature 30/1 CBX",
+    "Kultivar": "Chatterbox",
+    "THC/CBD": "30/1",
+    "Genetik": "Hybrid, Indica",
+    "Preis": 13.9,
+    "Link": "https://helios-cannabis.de/sortiment/avaay-signature-30-1-cbx/"
   },
   {
     "Lager": "instock",
