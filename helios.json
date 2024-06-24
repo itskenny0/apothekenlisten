@@ -28,15 +28,6 @@
   },
   {
     "Lager": "instock",
-    "Name": "Tilray THC22 Spotlight Porto Purps",
-    "Kultivar": "Purps",
-    "THC/CBD": "22/1",
-    "Genetik": "Hybrid",
-    "Preis": 6.5,
-    "Link": "https://helios-cannabis.de/sortiment/tilray-thc22-spotlight-porto-purps/"
-  },
-  {
-    "Lager": "instock",
     "Name": "Canify 22/1 PT Headband",
     "Kultivar": "Headband",
     "THC/CBD": "22/1",
@@ -196,6 +187,15 @@
     "Genetik": "Hybrid",
     "Preis": 8.9,
     "Link": "https://helios-cannabis.de/sortiment/botanics-golden-ace-20-1/"
+  },
+  {
+    "Lager": "instock",
+    "Name": "enua 30/1 DSH CA",
+    "Kultivar": "Dark Shadow Haze",
+    "THC/CBD": "30/1",
+    "Genetik": "Sativa",
+    "Preis": 8.9,
+    "Link": "https://helios-cannabis.de/sortiment/enua-30-1-dsh-ca/"
   },
   {
     "Lager": "instock",
