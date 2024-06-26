@@ -379,15 +379,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Nimbus ZRP 21/1",
-        "Kultivar": "Zour Apple",
-        "THC/CBD": "19,1/<1",
-        "Genetik": "Plantman Jack Herer / Gorilla Glue by Ethos",
-        "Preis": 6.84,
-        "Link": "https://cannabisapo24.de/products/nimbus-zrp-21-1"
-    },
-    {
-        "Lager": "instock",
         "Name": "Navcora THC22 Spotlight Porto Mango",
         "Kultivar": "Mango",
         "THC/CBD": "20,5/<1",
@@ -4327,6 +4318,15 @@
         "Genetik": "Grape Pie / Cookies and Cream",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/nimbus-gnc-24-1"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Nimbus ZRP 21/1",
+        "Kultivar": "Zour Apple",
+        "THC/CBD": "19,1/<1",
+        "Genetik": "Plantman Jack Herer / Gorilla Glue by Ethos",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/nimbus-zrp-21-1"
     },
     {
         "Lager": "outofstock",
