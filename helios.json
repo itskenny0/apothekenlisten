@@ -9,13 +9,13 @@
     "Link": "https://helios-cannabis.de/sortiment/supreme-18-1/"
   },
   {
-    "Lager": "instock",
-    "Name": "Canify 22/1 PT Headband",
-    "Kultivar": "Headband",
-    "THC/CBD": "22/1",
-    "Genetik": "Hybrid, Sativa",
+    "Lager": "onbackorder",
+    "Name": "Canify 20/1 UY PDB",
+    "Kultivar": "Purple Dog Bud",
+    "THC/CBD": "20/1",
+    "Genetik": "Hybrid",
     "Preis": 6.9,
-    "Link": "https://helios-cannabis.de/sortiment/canify-22-1-pt-headband/"
+    "Link": "https://helios-cannabis.de/sortiment/canify-20-1-uy-pdb/"
   },
   {
     "Lager": "instock",
@@ -34,15 +34,6 @@
     "Genetik": "Hybrid",
     "Preis": 6.9,
     "Link": "https://helios-cannabis.de/sortiment/supreme-24-1/"
-  },
-  {
-    "Lager": "instock",
-    "Name": "Tilray THC22 SP Pink Kush",
-    "Kultivar": "Pink Kush",
-    "THC/CBD": "22/1",
-    "Genetik": "Indica",
-    "Preis": 6.9,
-    "Link": "https://helios-cannabis.de/sortiment/tilray-thc22-sp-pink-kush/"
   },
   {
     "Lager": "instock",
@@ -82,21 +73,21 @@
   },
   {
     "Lager": "instock",
-    "Name": "enua 21/1 SG CA",
-    "Kultivar": "Sherbert Glue",
-    "THC/CBD": "21/1",
-    "Genetik": "Hybrid, Indica",
+    "Name": "enua 22/1 ABG CA",
+    "Kultivar": "Sweets",
+    "THC/CBD": "22/1",
+    "Genetik": "Hybrid, Sativa",
     "Preis": 7.9,
-    "Link": "https://helios-cannabis.de/sortiment/enua-21-1-sg-ca/"
+    "Link": "https://helios-cannabis.de/sortiment/enua-22-1-abg-ca/"
   },
   {
     "Lager": "instock",
-    "Name": "enua 27/1 CA CCK",
-    "Kultivar": "Cold Creek Kush",
-    "THC/CBD": "27/1",
-    "Genetik": "Indica",
+    "Name": "enua 25/1 SBD CA",
+    "Kultivar": "Strawberry Diesel",
+    "THC/CBD": "25/1",
+    "Genetik": "Hybrid, Indica",
     "Preis": 7.9,
-    "Link": "https://helios-cannabis.de/sortiment/enua-27-1-cck-ca/"
+    "Link": "https://helios-cannabis.de/sortiment/enua-25-1-sbd-ca/"
   },
   {
     "Lager": "instock",
@@ -126,22 +117,31 @@
     "Link": "https://helios-cannabis.de/sortiment/420-evolution-22-1-ca-mac/"
   },
   {
-    "Lager": "onbackorder",
-    "Name": "Avaay 23/1 BKR",
-    "Kultivar": "Black Krush",
+    "Lager": "instock",
+    "Name": "Avaay 23/1 RG",
+    "Kultivar": "Royal Gorilla",
     "THC/CBD": "23/1",
-    "Genetik": "Indica",
+    "Genetik": "Hybrid, Sativa",
     "Preis": 8.9,
-    "Link": "https://helios-cannabis.de/sortiment/avaay-23-1-bkr/"
+    "Link": "https://helios-cannabis.de/sortiment/avaay-23-1-rg/"
   },
   {
     "Lager": "instock",
-    "Name": "Avaay 26/1 SK",
-    "Kultivar": "Sour OG Kush",
-    "THC/CBD": "26/1",
+    "Name": "Bedrocan",
+    "Kultivar": "Afina",
+    "THC/CBD": "22/1",
+    "Genetik": "Sativa",
+    "Preis": 8.9,
+    "Link": "https://helios-cannabis.de/sortiment/bedrocan-afina/"
+  },
+  {
+    "Lager": "instock",
+    "Name": "enua 22/1 ICC CA",
+    "Kultivar": "Ice Cream Cake",
+    "THC/CBD": "22/1",
     "Genetik": "Hybrid, Indica",
     "Preis": 8.9,
-    "Link": "https://helios-cannabis.de/sortiment/avaay-24-1-sk-kopie/"
+    "Link": "https://helios-cannabis.de/sortiment/enua-22-1-icc-ca/"
   },
   {
     "Lager": "instock",
@@ -153,16 +153,7 @@
     "Link": "https://helios-cannabis.de/sortiment/enua-25-1-gth-ca/"
   },
   {
-    "Lager": "instock",
-    "Name": "enua 30/1 DSH CA",
-    "Kultivar": "Dark Shadow Haze",
-    "THC/CBD": "30/1",
-    "Genetik": "Sativa",
-    "Preis": 8.9,
-    "Link": "https://helios-cannabis.de/sortiment/enua-30-1-dsh-ca/"
-  },
-  {
-    "Lager": "instock",
+    "Lager": "onbackorder",
     "Name": "RE:Cannis 9,5/10,5",
     "Kultivar": "Midnight",
     "THC/CBD": "9,5/10,5",
@@ -217,6 +208,15 @@
   },
   {
     "Lager": "instock",
+    "Name": "Bathera 25/1 Fine Cookies",
+    "Kultivar": "Fine Cookies",
+    "THC/CBD": "25/1",
+    "Genetik": "Hybrid, Indica",
+    "Preis": 9.9,
+    "Link": "https://helios-cannabis.de/sortiment/bathera-25-1-fine-cookies/"
+  },
+  {
+    "Lager": "instock",
     "Name": "Demecan Typ 1",
     "Kultivar": "Bubba Kush",
     "THC/CBD": "21/1",
@@ -243,15 +243,6 @@
     "Link": "https://helios-cannabis.de/sortiment/therismos-24-1-sdk/"
   },
   {
-    "Lager": "onbackorder",
-    "Name": "420 Natural 22/1 CA GG4",
-    "Kultivar": "Gorilla Glue 4",
-    "THC/CBD": "22/1",
-    "Genetik": "Hybrid",
-    "Preis": 10.5,
-    "Link": "https://helios-cannabis.de/sortiment/420-natural-22-1-ca/"
-  },
-  {
     "Lager": "instock",
     "Name": "GM Colour of Space 28:01",
     "Kultivar": "Apple Fritter X Purple Punch",
@@ -268,15 +259,6 @@
     "Genetik": "Hybrid, Indica",
     "Preis": 10.9,
     "Link": "https://helios-cannabis.de/sortiment/bathera-21-1-zashimi/"
-  },
-  {
-    "Lager": "instock",
-    "Name": "BOTANICS Golden Ace 20/1",
-    "Kultivar": "Orange Panties",
-    "THC/CBD": "20/1",
-    "Genetik": "Hybrid",
-    "Preis": 10.9,
-    "Link": "https://helios-cannabis.de/sortiment/botanics-golden-ace-20-1/"
   },
   {
     "Lager": "instock",
@@ -316,12 +298,21 @@
   },
   {
     "Lager": "instock",
-    "Name": "enua 22/1 JLSY CA",
-    "Kultivar": "Jealousy",
-    "THC/CBD": "22/1",
+    "Name": "Avaay Signature 7/11 GCO",
+    "Kultivar": "Green Croc Orange",
+    "THC/CBD": "7/11",
+    "Genetik": "Hybrid",
+    "Preis": 11.5,
+    "Link": "https://helios-cannabis.de/sortiment/avaay-signature-7-11-gco/"
+  },
+  {
+    "Lager": "onbackorder",
+    "Name": "420 Compound 27/1 CA GAP",
+    "Kultivar": "Gastro Pop",
+    "THC/CBD": "27/1",
     "Genetik": "Hybrid, Indica",
     "Preis": 11.9,
-    "Link": "https://helios-cannabis.de/sortiment/enua-22-1-jlsy-ca/"
+    "Link": "https://helios-cannabis.de/sortiment/420-compound-27-1-ca-gap/"
   },
   {
     "Lager": "instock",
@@ -360,15 +351,6 @@
     "Link": "https://helios-cannabis.de/sortiment/pedanios-24-1-lac-ca/"
   },
   {
-    "Lager": "instock",
-    "Name": "Pedanios 26/1 EHD-CA",
-    "Kultivar": "Electric Honeydew",
-    "THC/CBD": "26/1",
-    "Genetik": "Sativa",
-    "Preis": 11.9,
-    "Link": "https://helios-cannabis.de/sortiment/pedanios-26-1-ehd-ca/"
-  },
-  {
     "Lager": "onbackorder",
     "Name": "Avaay Signature 28/1 PG",
     "Kultivar": "Platinum Garlic",
@@ -378,13 +360,22 @@
     "Link": "https://helios-cannabis.de/sortiment/avaay-signature-28-1-pg/"
   },
   {
-    "Lager": "onbackorder",
-    "Name": "Demecan 30:01 AG Epic Drop",
-    "Kultivar": "Guava Barz",
-    "THC/CBD": "30/1",
+    "Lager": "instock",
+    "Name": "Demecan MC Strong Drop - Magic Marker 2",
+    "Kultivar": "Magic Marker #2",
+    "THC/CBD": "27/1",
     "Genetik": "Hybrid, Indica",
     "Preis": 12.5,
-    "Link": "https://helios-cannabis.de/sortiment/demecan-3001-epic-drop/"
+    "Link": "https://helios-cannabis.de/sortiment/demecan-mc-strong-drop-magic-marker-2/"
+  },
+  {
+    "Lager": "instock",
+    "Name": "Pedanios 26/1 EHD-CA",
+    "Kultivar": "Electric Honeydew",
+    "THC/CBD": "26/1",
+    "Genetik": "Sativa",
+    "Preis": 12.5,
+    "Link": "https://helios-cannabis.de/sortiment/pedanios-26-1-ehd-ca/"
   },
   {
     "Lager": "instock",
@@ -392,17 +383,8 @@
     "Kultivar": "First Class Funk",
     "THC/CBD": "31/1",
     "Genetik": "Hybrid, Indica",
-    "Preis": 12.5,
+    "Preis": 12.9,
     "Link": "https://helios-cannabis.de/sortiment/demecan-3101-fcf-first-class-funk/"
-  },
-  {
-    "Lager": "instock",
-    "Name": "Demecan CRAFT Walkie Talkie 31:01",
-    "Kultivar": "Sugar Cake",
-    "THC/CBD": "31/1",
-    "Genetik": "Hybrid, Indica",
-    "Preis": 12.5,
-    "Link": "https://helios-cannabis.de/sortiment/demecan-craft-walkie-talkie-3101/"
   },
   {
     "Lager": "instock",
@@ -460,21 +442,21 @@
   },
   {
     "Lager": "instock",
+    "Name": "Pedanios 31/1 COS-CA",
+    "Kultivar": "Cosmic Cream",
+    "THC/CBD": "31/1",
+    "Genetik": "Indica",
+    "Preis": 13.5,
+    "Link": "https://helios-cannabis.de/sortiment/pedanios-31-1-cos-ca/"
+  },
+  {
+    "Lager": "instock",
     "Name": "420 Evolution 30/1 CA BUL",
     "Kultivar": "Bucket List",
     "THC/CBD": "30/1",
     "Genetik": "Hybrid, Sativa",
     "Preis": 13.9,
     "Link": "https://helios-cannabis.de/sortiment/420-evolution-30-1-ca-bul/"
-  },
-  {
-    "Lager": "instock",
-    "Name": "Avaay Signature 30/1 CBX",
-    "Kultivar": "Chatterbox",
-    "THC/CBD": "30/1",
-    "Genetik": "Hybrid, Indica",
-    "Preis": 13.9,
-    "Link": "https://helios-cannabis.de/sortiment/avaay-signature-30-1-cbx/"
   },
   {
     "Lager": "instock",
