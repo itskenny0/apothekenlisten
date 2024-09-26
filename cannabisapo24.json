@@ -802,6 +802,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Drapalin 27/1 Pink Gas",
+        "Kultivar": "Pink Gas",
+        "THC/CBD": "26,9/<1",
+        "Genetik": "",
+        "Preis": 8.33,
+        "Link": "https://cannabisapo24.de/products/drapalin-27-1-pink-gas"
+    },
+    {
+        "Lager": "instock",
         "Name": "Enua 25/1 SC CA",
         "Kultivar": "Strawberry Cake",
         "THC/CBD": "25,3/<1",
@@ -853,6 +862,15 @@
         "Genetik": "",
         "Preis": 8.45,
         "Link": "https://cannabisapo24.de/products/c-c-cannabis-23-1"
+    },
+    {
+        "Lager": "instock",
+        "Name": "SUMO Canada Craft No. 3",
+        "Kultivar": "Garlic Chem",
+        "THC/CBD": "26,6/<1",
+        "Genetik": "GMO x CHEM91",
+        "Preis": 8.45,
+        "Link": "https://cannabisapo24.de/products/sumo-canada-craft-no-3"
     },
     {
         "Lager": "instock",
@@ -1123,15 +1141,6 @@
         "Genetik": "",
         "Preis": 9.04,
         "Link": "https://cannabisapo24.de/products/aurora-thc-25-extract-1"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Therismos 23/1 JFG",
-        "Kultivar": "Jet Fuel Gelato",
-        "THC/CBD": "23,5/<1",
-        "Genetik": "Grape Pie / Jet Fuel",
-        "Preis": 9.1,
-        "Link": "https://cannabisapo24.de/products/therismos-23-1-jfg"
     },
     {
         "Lager": "instock",
@@ -1537,15 +1546,6 @@
         "Genetik": "Cookies and Cream X Purple Punch 2.0",
         "Preis": 9.98,
         "Link": "https://cannabisapo24.de/products/can-hydro-ppc"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Cannamedical Indica forte NM - Kerosene Krash",
-        "Kultivar": "Kerosene Krash",
-        "THC/CBD": "22,1/<1",
-        "Genetik": "Gorilla Glue #4 / Sherbet",
-        "Preis": 9.98,
-        "Link": "https://cannabisapo24.de/products/cannamedical-indica-forte-nm-kerosene-krash"
     },
     {
         "Lager": "instock",
@@ -4006,6 +4006,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Cannamedical Indica forte NM - Kerosene Krash",
+        "Kultivar": "Kerosene Krash",
+        "THC/CBD": "22,1/<1",
+        "Genetik": "Gorilla Glue #4 / Sherbet",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/cannamedical-indica-forte-nm-kerosene-krash"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Cannamedical Indica ultra SF",
         "Kultivar": "Rainmaker",
         "THC/CBD": "27,1/<1",
@@ -4561,15 +4570,6 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/drapalin-26-1-oreoz-1"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "Drapalin 27/1 Pink Gas",
-        "Kultivar": "Pink Gas",
-        "THC/CBD": "26,9/<1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/drapalin-27-1-pink-gas"
     },
     {
         "Lager": "outofstock",
@@ -5554,21 +5554,21 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "SUMO Canada Craft No. 3",
-        "Kultivar": "Garlic Chem",
-        "THC/CBD": "26,6/<1",
-        "Genetik": "GMO x CHEM91",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/sumo-canada-craft-no-3"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Supreme 18/1",
         "Kultivar": "White Widow",
         "THC/CBD": "18,2/<1",
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/supreme-18-1"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Therismos 23/1 JFG",
+        "Kultivar": "Jet Fuel Gelato",
+        "THC/CBD": "23,5/<1",
+        "Genetik": "Grape Pie / Jet Fuel",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/therismos-23-1-jfg"
     },
     {
         "Lager": "outofstock",
