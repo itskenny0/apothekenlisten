@@ -406,15 +406,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Cannamedical Indica forte ZAF",
-        "Kultivar": "Black Cherry Punch",
-        "THC/CBD": "22,7/<1",
-        "Genetik": "Black Cherry Pie x Purple Punch",
-        "Preis": 7.5,
-        "Link": "https://cannabisapo24.de/products/cannamedical-indica-forte-zaf"
-    },
-    {
-        "Lager": "instock",
         "Name": "Supreme 24/1",
         "Kultivar": "Frosted Lemon Cake",
         "THC/CBD": "21,9/<1",
@@ -478,6 +469,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Bathera 25/1 Garlic Funk",
+        "Kultivar": "Garlic Funk",
+        "THC/CBD": "23,4/<1",
+        "Genetik": "GMO X First Class Funk",
+        "Preis": 7.74,
+        "Link": "https://cannabisapo24.de/products/bathera-25-1-garlic-funk"
+    },
+    {
+        "Lager": "instock",
         "Name": "Canify Flos 20/1 UY  - Big Buddha",
         "Kultivar": "Big Buddha",
         "THC/CBD": "19,9/<1",
@@ -493,15 +493,6 @@
         "Genetik": "Chem's Sister x Chocolate Diesel x Sour Dubb",
         "Preis": 7.74,
         "Link": "https://cannabisapo24.de/products/cm-20-1-gg4"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Drapalin 21/1 Jack Herer",
-        "Kultivar": "Jack Herer",
-        "THC/CBD": "20,4/<1",
-        "Genetik": "",
-        "Preis": 7.74,
-        "Link": "https://cannabisapo24.de/products/drapalin-21-1-jack-herer"
     },
     {
         "Lager": "instock",
@@ -1279,6 +1270,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Bedrocan",
+        "Kultivar": "Afina",
+        "THC/CBD": "22,0/<1",
+        "Genetik": "",
+        "Preis": 9.52,
+        "Link": "https://cannabisapo24.de/products/bedrocan"
+    },
+    {
+        "Lager": "instock",
         "Name": "Cannamedical Balanced light",
         "Kultivar": "California Orange",
         "THC/CBD": "4,1/6,8",
@@ -1312,15 +1312,6 @@
         "Genetik": "",
         "Preis": 9.52,
         "Link": "https://cannabisapo24.de/products/cannamedical-indica-tire-fire"
-    },
-    {
-        "Lager": "instock",
-        "Name": "RE:CANNIS 1/17 CBD",
-        "Kultivar": "Avidekel",
-        "THC/CBD": "0,84/16,75",
-        "Genetik": "",
-        "Preis": 9.52,
-        "Link": "https://cannabisapo24.de/products/re-cannis-1-17-cbd"
     },
     {
         "Lager": "instock",
@@ -1465,15 +1456,6 @@
         "Genetik": "",
         "Preis": 9.88,
         "Link": "https://cannabisapo24.de/products/demecan-typ-2"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Bedrocan",
-        "Kultivar": "Afina",
-        "THC/CBD": "22,0/<1",
-        "Genetik": "",
-        "Preis": 9.97,
-        "Link": "https://cannabisapo24.de/products/bedrocan"
     },
     {
         "Lager": "instock",
@@ -1843,6 +1825,15 @@
         "Genetik": "",
         "Preis": 10.59,
         "Link": "https://cannabisapo24.de/products/aurora-22-1"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Demecan CRAFT zoer0 25:01",
+        "Kultivar": "Oreoz",
+        "THC/CBD": "24,5/<1",
+        "Genetik": "Cookies & Cream / Secret Weapon",
+        "Preis": 10.59,
+        "Link": "https://cannabisapo24.de/products/demecan-craft-zoer0-25-01"
     },
     {
         "Lager": "instock",
@@ -3475,15 +3466,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Bathera 25/1 Garlic Funk",
-        "Kultivar": "Garlic Funk",
-        "THC/CBD": "23,4/<1",
-        "Genetik": "GMO X First Class Funk",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/bathera-25-1-garlic-funk"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Bathera 25/1 VG Velvet Glove",
         "Kultivar": "Velvet Glove",
         "THC/CBD": "24,1/<1",
@@ -4024,6 +4006,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Cannamedical Indica forte ZAF",
+        "Kultivar": "Black Cherry Punch",
+        "THC/CBD": "22,7/<1",
+        "Genetik": "Black Cherry Pie x Purple Punch",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/cannamedical-indica-forte-zaf"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Cannamedical Indica ultra SF",
         "Kultivar": "Rainmaker",
         "THC/CBD": "27,1/<1",
@@ -4474,15 +4465,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Demecan CRAFT zoer0 25:01",
-        "Kultivar": "Oreoz",
-        "THC/CBD": "24,5/<1",
-        "Genetik": "Cookies & Cream / Secret Weapon",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/demecan-craft-zoer0-25-01"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Demecan Oktonia Typ2 10:10 - Extrakt",
         "Kultivar": null,
         "THC/CBD": "10/10",
@@ -4552,6 +4534,15 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/drapalin-20-1-pop"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Drapalin 21/1 Jack Herer",
+        "Kultivar": "Jack Herer",
+        "THC/CBD": "20,4/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/drapalin-21-1-jack-herer"
     },
     {
         "Lager": "outofstock",
@@ -5425,6 +5416,15 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/re-cannis-1-5-30-extrakt"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "RE:CANNIS 1/17 CBD",
+        "Kultivar": "Avidekel",
+        "THC/CBD": "0,84/16,75",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/re-cannis-1-17-cbd"
     },
     {
         "Lager": "outofstock",
