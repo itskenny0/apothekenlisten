@@ -10,15 +10,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "SOMAI Hybrid 10:10 - Extrakt",
-        "Kultivar": "Mac 22",
-        "THC/CBD": "10/10",
-        "Genetik": "",
-        "Preis": 3.57,
-        "Link": "https://cannabisapo24.de/products/somai-hybrid-10-10-extrakt"
-    },
-    {
-        "Lager": "instock",
         "Name": "SOMAI Hybrid 25:1 - Extrakt",
         "Kultivar": "Mac 22",
         "THC/CBD": "25/1",
@@ -829,15 +820,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "SUMO Canada Craft No. 3",
-        "Kultivar": "Garlic Chem",
-        "THC/CBD": "26,6/<1",
-        "Genetik": "GMO x CHEM91",
-        "Preis": 8.45,
-        "Link": "https://cannabisapo24.de/products/sumo-canada-craft-no-3"
-    },
-    {
-        "Lager": "instock",
         "Name": "Cannamedical CM 20/1 LLY",
         "Kultivar": "Legendary Larry",
         "THC/CBD": "19,1/<1",
@@ -943,15 +925,6 @@
         "Genetik": "OG Kush x Pink Afghan",
         "Preis": 8.87,
         "Link": "https://cannabisapo24.de/products/khiron-lbo-24-1"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Khiron SLH 24/1",
-        "Kultivar": "Super Lemon Haze",
-        "THC/CBD": "22,1/<1",
-        "Genetik": "Lemon Skunk x Super Silver Haze",
-        "Preis": 8.87,
-        "Link": "https://cannabisapo24.de/products/khiron-slh-24-1"
     },
     {
         "Lager": "instock",
@@ -1132,15 +1105,6 @@
         "Genetik": "OG Kush / Lost Sailor / Platinum Kush",
         "Preis": 9.22,
         "Link": "https://cannabisapo24.de/products/remexian-24-1-grg"
-    },
-    {
-        "Lager": "instock",
-        "Name": "AVAAY Signature 7/11 GCO - Green Croc Orange",
-        "Kultivar": "Green Croc Orange",
-        "THC/CBD": "7,6/10,6",
-        "Genetik": "Sweet Skunk X California Orange CBD",
-        "Preis": 9.26,
-        "Link": "https://cannabisapo24.de/products/avaay-signature-7-11-gco-green-croc-orange"
     },
     {
         "Lager": "instock",
@@ -1738,15 +1702,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "GM Colour of Space 28:01",
-        "Kultivar": "Apple Fritter",
-        "THC/CBD": "28,8/<1",
-        "Genetik": "Sour Apple / Animal Cookies",
-        "Preis": 10.41,
-        "Link": "https://cannabisapo24.de/products/gm-colour-of-space-28-01"
-    },
-    {
-        "Lager": "instock",
         "Name": "Canopy AKH 22",
         "Kultivar": "Afghan Kush",
         "THC/CBD": "23,0/<0,5",
@@ -2068,15 +2023,6 @@
         "Genetik": "OG Kush x Strawberry Diesel",
         "Preis": 10.98,
         "Link": "https://cannabisapo24.de/products/therismos-30-1-brb-bruce-banner"
-    },
-    {
-        "Lager": "instock",
-        "Name": "420 Evolution 30/1 CA PCH",
-        "Kultivar": "Peach Chementine",
-        "THC/CBD": "27,91/<1",
-        "Genetik": "Chem D x i95 x Mandarin Cookies x Peach Ringz",
-        "Preis": 11.19,
-        "Link": "https://cannabisapo24.de/products/420-evolution-30-1-ca-pch"
     },
     {
         "Lager": "instock",
@@ -2764,6 +2710,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "420 Evolution 30/1 CA PCH",
+        "Kultivar": "Peach Chementine",
+        "THC/CBD": "27,91/<1",
+        "Genetik": "Chem D x i95 x Mandarin Cookies x Peach Ringz",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-evolution-30-1-ca-pch"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "420 Evolution 30/1 CA TGP Tiger Paw",
         "Kultivar": "Tiger Paw",
         "THC/CBD": "30/<1",
@@ -3409,6 +3364,15 @@
         "Genetik": "Slurricane / Margy's Mints",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/avaay-signature-30-1-cbx"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "AVAAY Signature 7/11 GCO - Green Croc Orange",
+        "Kultivar": "Green Croc Orange",
+        "THC/CBD": "7,6/10,6",
+        "Genetik": "Sweet Skunk X California Orange CBD",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/avaay-signature-7-11-gco-green-croc-orange"
     },
     {
         "Lager": "outofstock",
@@ -4726,6 +4690,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "GM Colour of Space 28:01",
+        "Kultivar": "Apple Fritter",
+        "THC/CBD": "28,8/<1",
+        "Genetik": "Sour Apple / Animal Cookies",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/gm-colour-of-space-28-01"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Green Karat CG",
         "Kultivar": "Cool Grapes",
         "THC/CBD": "28,6/<1",
@@ -4939,6 +4912,15 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/khiron-c-5-7-caramel"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Khiron SLH 24/1",
+        "Kultivar": "Super Lemon Haze",
+        "THC/CBD": "22,1/<1",
+        "Genetik": "Lemon Skunk x Super Silver Haze",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/khiron-slh-24-1"
     },
     {
         "Lager": "outofstock",
@@ -5572,6 +5554,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "SOMAI Hybrid 10:10 - Extrakt",
+        "Kultivar": "Mac 22",
+        "THC/CBD": "10/10",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/somai-hybrid-10-10-extrakt"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Stratus Indica - Wappa",
         "Kultivar": "Wappa",
         "THC/CBD": "16/<1",
@@ -5587,6 +5578,15 @@
         "Genetik": "Garlic Chem / Legendary Larry",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/sumo-canada-craft-no-2"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "SUMO Canada Craft No. 3",
+        "Kultivar": "Garlic Chem",
+        "THC/CBD": "26,6/<1",
+        "Genetik": "GMO x CHEM91",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/sumo-canada-craft-no-3"
     },
     {
         "Lager": "outofstock",
