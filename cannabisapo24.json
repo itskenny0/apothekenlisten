@@ -199,15 +199,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Canify Flos 18/1 UY GG - Gorilla Glue",
-        "Kultivar": "Gorilla Glue",
-        "THC/CBD": "17,9/<1",
-        "Genetik": "",
-        "Preis": 6.25,
-        "Link": "https://cannabisapo24.de/products/canify-flos-18-1-uy-gg-gorilla-glue"
-    },
-    {
-        "Lager": "instock",
         "Name": "madrecan 24/1 SKY Skywalker",
         "Kultivar": "Skywalker",
         "THC/CBD": "22,8/<1",
@@ -232,15 +223,6 @@
         "Genetik": "",
         "Preis": 6.33,
         "Link": "https://cannabisapo24.de/products/cannamedical-thc20-cbd5-extrakt"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Canify 25/1 CO Ku. Kush Mints",
-        "Kultivar": "Kush Mints",
-        "THC/CBD": "24/<1",
-        "Genetik": "Animal Mints x Bubba Kush",
-        "Preis": 6.4,
-        "Link": "https://cannabisapo24.de/products/canify-25-1-co-ku-kush-mint"
     },
     {
         "Lager": "instock",
@@ -367,15 +349,6 @@
         "Genetik": "Animal Crackers x SinMint Cookies",
         "Preis": 7.26,
         "Link": "https://cannabisapo24.de/products/adrex-22-wm-col"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Remexian 24/1 MYW",
-        "Kultivar": "Mystic Wonder",
-        "THC/CBD": "24,0/1",
-        "Genetik": "Garlic Sherb x Cactus Breath",
-        "Preis": 7.26,
-        "Link": "https://cannabisapo24.de/products/remexian-24-1-myw"
     },
     {
         "Lager": "instock",
@@ -1657,6 +1630,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Wellford 23/1 PIK Pink Kush",
+        "Kultivar": "Pink Kush",
+        "THC/CBD": "24,1/<1",
+        "Genetik": "",
+        "Preis": 9.98,
+        "Link": "https://cannabisapo24.de/products/wellford-23-1-pik-pink-kush"
+    },
+    {
+        "Lager": "instock",
         "Name": "Enua 30/1 TTA CA Titanimal",
         "Kultivar": "Titanimal",
         "THC/CBD": "27,9/<1",
@@ -1780,6 +1762,15 @@
         "Genetik": "OG La Affie x Afghani",
         "Preis": 10.23,
         "Link": "https://cannabisapo24.de/products/pedanios-24-1-lac-ca"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Wellford 23/1 COP Critical Orange Punch",
+        "Kultivar": "Critical Orange Punch",
+        "THC/CBD": "25,3/<1",
+        "Genetik": "Critical x Grandaddy Purps x Orange Bud",
+        "Preis": 10.23,
+        "Link": "https://cannabisapo24.de/products/wellford-23-1-cop-critical-orange-punch"
     },
     {
         "Lager": "instock",
@@ -2185,6 +2176,15 @@
         "Genetik": "Kush Mints x Triangle Mints x White Tahoe Cookies",
         "Preis": 11.29,
         "Link": "https://cannabisapo24.de/products/29-1-amici-wc"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Peace Naturals 29/1 GC",
+        "Kultivar": "GMO Cookies (Garlic-Mushroom-Onion Cookies)",
+        "THC/CBD": "31,0/<0,1",
+        "Genetik": "Girl Scout Cookies / Chemdawg",
+        "Preis": 11.29,
+        "Link": "https://cannabisapo24.de/products/peace-naturals-29-1-gc"
     },
     {
         "Lager": "instock",
@@ -3637,6 +3637,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Canify 25/1 CO Ku. Kush Mints",
+        "Kultivar": "Kush Mints",
+        "THC/CBD": "24/<1",
+        "Genetik": "Animal Mints x Bubba Kush",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/canify-25-1-co-ku-kush-mint"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Canify Flos 18/1 PT Mango",
         "Kultivar": "Mango",
         "THC/CBD": "16,7/<1",
@@ -3652,6 +3661,15 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/canify-flos-18-1-pt-pink-kush"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Canify Flos 18/1 UY GG - Gorilla Glue",
+        "Kultivar": "Gorilla Glue",
+        "THC/CBD": "17,9/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/canify-flos-18-1-uy-gg-gorilla-glue"
     },
     {
         "Lager": "outofstock",
@@ -5524,6 +5542,15 @@
         "Genetik": "Jack Herer x Super Skunk x Original Haze",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/remexian-23-1-mad"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Remexian 24/1 MYW",
+        "Kultivar": "Mystic Wonder",
+        "THC/CBD": "24,0/1",
+        "Genetik": "Garlic Sherb x Cactus Breath",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/remexian-24-1-myw"
     },
     {
         "Lager": "outofstock",
