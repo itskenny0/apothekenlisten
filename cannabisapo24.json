@@ -352,15 +352,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Remexian 24/1 MYW",
-        "Kultivar": "Mystic Wonder",
-        "THC/CBD": "24,0/1",
-        "Genetik": "Garlic Sherb x Cactus Breath",
-        "Preis": 7.26,
-        "Link": "https://cannabisapo24.de/products/remexian-24-1-myw"
-    },
-    {
-        "Lager": "instock",
         "Name": "Tilray THC15 Spotlight Porto - Master Kush",
         "Kultivar": "Master Kush",
         "THC/CBD": "13,5/<1",
@@ -1171,6 +1162,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Therismos 23/1 JFG",
+        "Kultivar": "Jet Fuel Gelato",
+        "THC/CBD": "23,5/<1",
+        "Genetik": "Grape Pie / Jet Fuel",
+        "Preis": 9.1,
+        "Link": "https://cannabisapo24.de/products/therismos-23-1-jfg"
+    },
+    {
+        "Lager": "instock",
         "Name": "Therismos 24/1 SDK",
         "Kultivar": "Sensi Double Kush",
         "THC/CBD": "25,7/<1",
@@ -1339,6 +1339,15 @@
         "Genetik": "",
         "Preis": 9.52,
         "Link": "https://cannabisapo24.de/products/bedrocan"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Cannamedical Balanced light",
+        "Kultivar": "California Orange",
+        "THC/CBD": "4,1/6,8",
+        "Genetik": "",
+        "Preis": 9.52,
+        "Link": "https://cannabisapo24.de/products/cannamedical-balanced-light"
     },
     {
         "Lager": "instock",
@@ -1918,15 +1927,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "420 Evolution 25/1 CA ICC",
-        "Kultivar": "Icecream Cake Kush Mints",
-        "THC/CBD": "23,5/<1",
-        "Genetik": "",
-        "Preis": 10.71,
-        "Link": "https://cannabisapo24.de/products/420-evolution-25-1-ca-icc"
-    },
-    {
-        "Lager": "instock",
         "Name": "Cannamedical Hybrid classic NM - Critical Bilbo",
         "Kultivar": "Critical Bilbo",
         "THC/CBD": "20,9/<1",
@@ -1951,6 +1951,15 @@
         "Genetik": "Alien Cookies / Combian Starfighter",
         "Preis": 10.71,
         "Link": "https://cannabisapo24.de/products/cantourage-mac1"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Demecan CRAFT T4N-G 25:01",
+        "Kultivar": "Banjo",
+        "THC/CBD": "27,0/<1",
+        "Genetik": "Boost / Tangelo",
+        "Preis": 10.71,
+        "Link": "https://cannabisapo24.de/products/demecan-craft-t4n-g-25-01"
     },
     {
         "Lager": "instock",
@@ -2689,6 +2698,15 @@
         "Genetik": "Sundae Driver / Plum Wine OG",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/420-evolution-22-1-ca-pld"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "420 Evolution 25/1 CA ICC",
+        "Kultivar": "Icecream Cake Kush Mints",
+        "THC/CBD": "23,5/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-evolution-25-1-ca-icc"
     },
     {
         "Lager": "outofstock",
@@ -3853,15 +3871,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Cannamedical Balanced light",
-        "Kultivar": "California Orange",
-        "THC/CBD": "4,1/6,8",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/cannamedical-balanced-light"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Cannamedical CBD25 - Extrakt",
         "Kultivar": "k.A.",
         "THC/CBD": "0/25",
@@ -4480,15 +4489,6 @@
         "Genetik": "Grape Pie x Cookies and Cream",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/demecan-craft-gnc-24-01"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "Demecan CRAFT T4N-G 25:01",
-        "Kultivar": "Banjo",
-        "THC/CBD": "27,0/<1",
-        "Genetik": "Boost / Tangelo",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/demecan-craft-t4n-g-25-01"
     },
     {
         "Lager": "outofstock",
@@ -5572,6 +5572,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Remexian 24/1 MYW",
+        "Kultivar": "Mystic Wonder",
+        "THC/CBD": "24,0/1",
+        "Genetik": "Garlic Sherb x Cactus Breath",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/remexian-24-1-myw"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Remexian 25/1 FLC",
         "Kultivar": "Frosted Lemon Cake",
         "THC/CBD": "25,0/<1",
@@ -5713,15 +5722,6 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/supreme-18-1"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "Therismos 23/1 JFG",
-        "Kultivar": "Jet Fuel Gelato",
-        "THC/CBD": "23,5/<1",
-        "Genetik": "Grape Pie / Jet Fuel",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/therismos-23-1-jfg"
     },
     {
         "Lager": "outofstock",
