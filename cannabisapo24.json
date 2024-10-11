@@ -10,15 +10,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "SOMAI Hybrid 25:1 - Extrakt",
-        "Kultivar": "Mac 22",
-        "THC/CBD": "25/1",
-        "Genetik": "",
-        "Preis": 3.57,
-        "Link": "https://cannabisapo24.de/products/somai-hybrid-25-1-extrakt"
-    },
-    {
-        "Lager": "instock",
         "Name": "Adrex 10:10 - Extrakt",
         "Kultivar": "Adrex High CBD / Adrex High THC",
         "THC/CBD": "10/10",
@@ -226,9 +217,18 @@
     },
     {
         "Lager": "instock",
+        "Name": "Navcora THC18 Spotlight Porto Headband",
+        "Kultivar": "Headband",
+        "THC/CBD": "16,7/<1",
+        "Genetik": "",
+        "Preis": 6.89,
+        "Link": "https://cannabisapo24.de/products/navcora-thc18-spotlight-porto-headband"
+    },
+    {
+        "Lager": "instock",
         "Name": "Navcora THC18 Spotlight Porto Master Kush",
         "Kultivar": "Master Kush",
-        "THC/CBD": "16,8/<1",
+        "THC/CBD": "16,5/<1",
         "Genetik": "",
         "Preis": 6.89,
         "Link": "https://cannabisapo24.de/products/navcora-thc18-spotlight-porto-master-kush"
@@ -415,6 +415,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Supreme 24/1",
+        "Kultivar": "Frosted Lemon Cake",
+        "THC/CBD": "23,8/<1",
+        "Genetik": "",
+        "Preis": 7.5,
+        "Link": "https://cannabisapo24.de/products/supreme-24-1"
+    },
+    {
+        "Lager": "instock",
         "Name": "Enua 22/1 CA CCK",
         "Kultivar": "Cold Creek Kush",
         "THC/CBD": "22/<1",
@@ -466,15 +475,6 @@
         "Genetik": "GMO X First Class Funk",
         "Preis": 7.74,
         "Link": "https://cannabisapo24.de/products/bathera-23-1-garlic-funk"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Bathera 25/1 Garlic Funk",
-        "Kultivar": "Garlic Funk",
-        "THC/CBD": "23,4/<1",
-        "Genetik": "GMO X First Class Funk",
-        "Preis": 7.74,
-        "Link": "https://cannabisapo24.de/products/bathera-25-1-garlic-funk"
     },
     {
         "Lager": "instock",
@@ -991,15 +991,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Cannamedical Indica forte URY - Dawg Bud Fusion",
-        "Kultivar": "Dawg Bud Fusion",
-        "THC/CBD": "23,4/<1",
-        "Genetik": "Purple Dog Bud x Chem Dawg",
-        "Preis": 8.81,
-        "Link": "https://cannabisapo24.de/products/cannamedical-indica-forte-ury-dawg-bud-fusion"
-    },
-    {
-        "Lager": "instock",
         "Name": "Vasco WR",
         "Kultivar": "White Runtz",
         "THC/CBD": "20,1/<1",
@@ -1351,15 +1342,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "AVAAY 26/1 BCP - Black Cherry Punch",
-        "Kultivar": "Black Cherry Punch",
-        "THC/CBD": "25,4/<1",
-        "Genetik": "Black Cherry Pie / Purple Punch",
-        "Preis": 9.48,
-        "Link": "https://cannabisapo24.de/products/avaay-26-1-bcp-black-cherry-punch"
-    },
-    {
-        "Lager": "instock",
         "Name": "Remexian 30/1 PRT Mokum’s Tulip",
         "Kultivar": "Mokum’s Tulip",
         "THC/CBD": "31,4/<1",
@@ -1380,7 +1362,7 @@
         "Lager": "instock",
         "Name": "Bedrocan",
         "Kultivar": "Afina",
-        "THC/CBD": "22,0/<1",
+        "THC/CBD": "19,4/<1",
         "Genetik": "",
         "Preis": 9.52,
         "Link": "https://cannabisapo24.de/products/bedrocan"
@@ -1567,6 +1549,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Aurora 24/1 PNK-CA",
+        "Kultivar": "Pink Kush",
+        "THC/CBD": "23,1/<1",
+        "Genetik": "OG Kush",
+        "Preis": 9.98,
+        "Link": "https://cannabisapo24.de/products/aurora-24-1-pnk-ca"
+    },
+    {
+        "Lager": "instock",
         "Name": "Botanics Purple Cream 22/1",
         "Kultivar": "Purple Ice Water",
         "THC/CBD": "23,94/<1",
@@ -1657,6 +1648,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Pedanios 22/1 DNK",
+        "Kultivar": "Ghost Train Haze",
+        "THC/CBD": "22,/<1",
+        "Genetik": "",
+        "Preis": 9.98,
+        "Link": "https://cannabisapo24.de/products/bediol"
+    },
+    {
+        "Lager": "instock",
         "Name": "Wellford 23/1 PIK Pink Kush",
         "Kultivar": "Pink Kush",
         "THC/CBD": "24,1/<1",
@@ -1708,15 +1708,6 @@
         "Genetik": "Glazed Apricot Gelato / Grape Gasoline",
         "Preis": 10.12,
         "Link": "https://cannabisapo24.de/products/green-karat-fs"
-    },
-    {
-        "Lager": "instock",
-        "Name": "GROW 30",
-        "Kultivar": "Gelato Sherbert",
-        "THC/CBD": "28,0/<1",
-        "Genetik": "",
-        "Preis": 10.12,
-        "Link": "https://cannabisapo24.de/products/grow-30"
     },
     {
         "Lager": "instock",
@@ -1909,6 +1900,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Aurora 22/1 DNK",
+        "Kultivar": "Delahaze",
+        "THC/CBD": "22,3/<1",
+        "Genetik": "",
+        "Preis": 10.59,
+        "Link": "https://cannabisapo24.de/products/aurora-22-1"
+    },
+    {
+        "Lager": "instock",
         "Name": "Demecan Oktonia Typ1 25:01 - Extrakt",
         "Kultivar": null,
         "THC/CBD": "25/1",
@@ -1933,15 +1933,6 @@
         "Genetik": "Spritzer x Grape Gas",
         "Preis": 10.71,
         "Link": "https://cannabisapo24.de/products/420-compound-22-1-ca-mwz"
-    },
-    {
-        "Lager": "instock",
-        "Name": "420 Evolution 27/1 CA WES",
-        "Kultivar": "Wedding Singer",
-        "THC/CBD": "25,63/<1",
-        "Genetik": "White Wedding / Kush Mints #11",
-        "Preis": 10.71,
-        "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-wes"
     },
     {
         "Lager": "instock",
@@ -2154,7 +2145,7 @@
         "Lager": "instock",
         "Name": "Pedanios 31/1 COS-CA",
         "Kultivar": "Cosmic Cream",
-        "THC/CBD": "32,3/<0,1",
+        "THC/CBD": "31,2/<0,1",
         "Genetik": "Gasberry x Alien Cake 3030",
         "Preis": 11.19,
         "Link": "https://cannabisapo24.de/products/pedanios-31-1-cos-ca"
@@ -2404,15 +2395,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Demecan Craft D-Jungle 31:01",
-        "Kultivar": "Purple Punch x Jungle Cake",
-        "THC/CBD": "30,2/<1",
-        "Genetik": "",
-        "Preis": 12.61,
-        "Link": "https://cannabisapo24.de/products/demecan-craft-d-jungle-31-01"
-    },
-    {
-        "Lager": "instock",
         "Name": "Demecan CRAFT FCF 31:01",
         "Kultivar": "First Class Funk",
         "THC/CBD": "28,3/<1",
@@ -2437,6 +2419,15 @@
         "Genetik": "Glitter Bomb x Gastro Pop #5",
         "Preis": 12.61,
         "Link": "https://cannabisapo24.de/products/demecan-mc-regular-drop-glitter-pop-bomb"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Demecan Craft D-Jungle 31:01",
+        "Kultivar": "Purple Punch x Jungle Cake",
+        "THC/CBD": "30,6/<1",
+        "Genetik": "",
+        "Preis": 12.61,
+        "Link": "https://cannabisapo24.de/products/demecan-craft-d-jungle-31-01"
     },
     {
         "Lager": "instock",
@@ -2770,6 +2761,15 @@
         "Genetik": "Stardawg / Arise",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-str"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "420 Evolution 27/1 CA WES",
+        "Kultivar": "Wedding Singer",
+        "THC/CBD": "25,63/<1",
+        "Genetik": "White Wedding / Kush Mints #11",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-wes"
     },
     {
         "Lager": "outofstock",
@@ -3196,24 +3196,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Aurora 22/1 DNK",
-        "Kultivar": "Delahaze",
-        "THC/CBD": "22,3/<1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/aurora-22-1"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "Aurora 24/1 PNK-CA",
-        "Kultivar": "Pink Kush",
-        "THC/CBD": "23,1/<1",
-        "Genetik": "OG Kush",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/aurora-24-1-pnk-ca"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "AVAAY 12/8 CAN - Cannatonic",
         "Kultivar": "Cannatonic",
         "THC/CBD": "11,3/8,9",
@@ -3346,6 +3328,15 @@
         "Genetik": "Sour-Diesel und OG Kush",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/avaay-24-1-sk-sour-kush"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "AVAAY 26/1 BCP - Black Cherry Punch",
+        "Kultivar": "Black Cherry Punch",
+        "THC/CBD": "25,4/<1",
+        "Genetik": "Black Cherry Pie / Purple Punch",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/avaay-26-1-bcp-black-cherry-punch"
     },
     {
         "Lager": "outofstock",
@@ -3490,6 +3481,15 @@
         "Genetik": "Fine Ice Cream x Fresh Biscotti",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/bathera-25-1-fine-cookies"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Bathera 25/1 Garlic Funk",
+        "Kultivar": "Garlic Funk",
+        "THC/CBD": "23,4/<1",
+        "Genetik": "GMO X First Class Funk",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/bathera-25-1-garlic-funk"
     },
     {
         "Lager": "outofstock",
@@ -4048,6 +4048,15 @@
         "Genetik": "Gorilla Glue #4 / Sherbet",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/cannamedical-indica-forte-nm-kerosene-krash"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Cannamedical Indica forte URY - Dawg Bud Fusion",
+        "Kultivar": "Dawg Bud Fusion",
+        "THC/CBD": "23,4/<1",
+        "Genetik": "Purple Dog Bud x Chem Dawg",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/cannamedical-indica-forte-ury-dawg-bud-fusion"
     },
     {
         "Lager": "outofstock",
@@ -4888,6 +4897,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "GROW 30",
+        "Kultivar": "Gelato Sherbert",
+        "THC/CBD": "28,0/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/grow-30"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Grünhorn 33/1 TCK",
         "Kultivar": "Tiger Cake",
         "THC/CBD": "33,5/<1",
@@ -5293,15 +5311,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Navcora THC18 Spotlight Porto Headband",
-        "Kultivar": "Headband",
-        "THC/CBD": "17,7/<1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/navcora-thc18-spotlight-porto-headband"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Navcora THC22 Spotlight Porto -  Galaxy Walker OG",
         "Kultivar": "Galaxy Walker OG",
         "THC/CBD": "20,4/<1",
@@ -5536,15 +5545,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Pedanios 22/1 DNK",
-        "Kultivar": "Ghost Train Haze",
-        "THC/CBD": "22,4/<1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/bediol"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Pedanios 26/1 EHD-CA",
         "Kultivar": "Electric Honeydew (EHD)",
         "THC/CBD": "27,1/<1",
@@ -5761,6 +5761,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "SOMAI Hybrid 25:1 - Extrakt",
+        "Kultivar": "Mac 22",
+        "THC/CBD": "25/1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/somai-hybrid-25-1-extrakt"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Stratus Indica - Wappa",
         "Kultivar": "Wappa",
         "THC/CBD": "16/<1",
@@ -5794,15 +5803,6 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/supreme-18-1"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "Supreme 24/1",
-        "Kultivar": "Frosted Lemon Cake",
-        "THC/CBD": "23,8/<1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/supreme-24-1"
     },
     {
         "Lager": "outofstock",
