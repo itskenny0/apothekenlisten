@@ -46,15 +46,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Remexian 14/1 White Widow",
-        "Kultivar": "White Widow",
-        "THC/CBD": "14,0/1",
-        "Genetik": "",
-        "Preis": 4.9,
-        "Link": "https://cannabisapo24.de/products/remexian-14-1-white-widow"
-    },
-    {
-        "Lager": "instock",
         "Name": "IMC Extrakt 10:10 B100",
         "Kultivar": "Cannatonic/Sweet Skunk",
         "THC/CBD": "10/10",
@@ -223,6 +214,15 @@
         "Genetik": "",
         "Preis": 6.89,
         "Link": "https://cannabisapo24.de/products/navcora-thc18-spotlight-porto-headband"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Navcora THC18 Spotlight Porto Mango",
+        "Kultivar": "Mango",
+        "THC/CBD": "16,6/<1",
+        "Genetik": "",
+        "Preis": 6.89,
+        "Link": "https://cannabisapo24.de/products/navcora-thc18-spotlight-porto-mango"
     },
     {
         "Lager": "instock",
@@ -451,6 +451,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Beacon PK T24 Pink Kush",
+        "Kultivar": "Pink Kush",
+        "THC/CBD": "24,1/<1",
+        "Genetik": "",
+        "Preis": 7.72,
+        "Link": "https://cannabisapo24.de/products/beacon-pk-t24-pink-kush"
+    },
+    {
+        "Lager": "instock",
         "Name": "Enua 21/1 SC CA",
         "Kultivar": "Strawberry Cake",
         "THC/CBD": "19,5/<1",
@@ -628,6 +637,15 @@
         "Genetik": "Sunset Sherbert x Thin Mint (GSC)",
         "Preis": 7.85,
         "Link": "https://cannabisapo24.de/products/imc-gl41-thc20-gelato-41"
+    },
+    {
+        "Lager": "instock",
+        "Name": "IMC THC25 T04 - Strawberry OG",
+        "Kultivar": "Strawberry OG",
+        "THC/CBD": "25/<1",
+        "Genetik": "Bruce Banner / San Fernando Valley OG",
+        "Preis": 7.85,
+        "Link": "https://cannabisapo24.de/products/imc-thc25-t04-strawberry-og"
     },
     {
         "Lager": "instock",
@@ -1063,6 +1081,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Enua 30/1 DSH CA",
+        "Kultivar": "Dark Shadow Haze",
+        "THC/CBD": "28,58/<1",
+        "Genetik": "Grape Ape / Nevil's Wreck",
+        "Preis": 8.93,
+        "Link": "https://cannabisapo24.de/products/enua-30-1-dsh-ca"
+    },
+    {
+        "Lager": "instock",
         "Name": "Green Karat MG PT",
         "Kultivar": "Modified Gas",
         "THC/CBD": "24,8/<1",
@@ -1303,15 +1330,6 @@
         "Genetik": "LA Kush Cake / Triangle Kush",
         "Preis": 9.45,
         "Link": "https://cannabisapo24.de/products/cnbs-fk-30-1-florida-kush"
-    },
-    {
-        "Lager": "instock",
-        "Name": "CNBS GELO 20/1",
-        "Kultivar": "Gelonade",
-        "THC/CBD": "21,7/<1",
-        "Genetik": "Gelato 41 / Lemon Tree",
-        "Preis": 9.45,
-        "Link": "https://cannabisapo24.de/products/cnbs-gelo-20-1"
     },
     {
         "Lager": "instock",
@@ -1722,7 +1740,7 @@
         "Lager": "instock",
         "Name": "Remexian 30/1 LPP",
         "Kultivar": "Lemon Pepper Punch",
-        "THC/CBD": "30/1",
+        "THC/CBD": "27,3/1",
         "Genetik": "Margy Mints / Slurricane",
         "Preis": 10.12,
         "Link": "https://cannabisapo24.de/products/remexian-30-1-lpp"
@@ -1909,6 +1927,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "420 Evolution 25/1 CA ICC",
+        "Kultivar": "Icecream Cake Kush Mints",
+        "THC/CBD": "23,5/<1",
+        "Genetik": "",
+        "Preis": 10.71,
+        "Link": "https://cannabisapo24.de/products/420-evolution-25-1-ca-icc"
+    },
+    {
+        "Lager": "instock",
         "Name": "Cannamedical Hybrid classic NM - Critical Bilbo",
         "Kultivar": "Critical Bilbo",
         "THC/CBD": "20,9/<1",
@@ -1933,6 +1960,15 @@
         "Genetik": "",
         "Preis": 10.71,
         "Link": "https://cannabisapo24.de/products/canopy-gdb-12"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Cantourage Mac 1+",
+        "Kultivar": "Mac 1",
+        "THC/CBD": "24,5/<1",
+        "Genetik": "Alien Cookies / Combian Starfighter",
+        "Preis": 10.71,
+        "Link": "https://cannabisapo24.de/products/cantourage-mac1"
     },
     {
         "Lager": "instock",
@@ -1963,18 +1999,9 @@
     },
     {
         "Lager": "instock",
-        "Name": "Cantourage Mac 1+",
-        "Kultivar": "Mac 1",
-        "THC/CBD": "25,8/<1",
-        "Genetik": "Alien Cookies / Combian Starfighter",
-        "Preis": 10.71,
-        "Link": "https://cannabisapo24.de/products/cantourage-mac1"
-    },
-    {
-        "Lager": "instock",
         "Name": "Vasco PR PT",
         "Kultivar": "Pavé Runtz",
-        "THC/CBD": "24,5/<1",
+        "THC/CBD": "22,1/<1",
         "Genetik": "Pavé x White Runtz",
         "Preis": 10.71,
         "Link": "https://cannabisapo24.de/products/vasco-pr-pt"
@@ -2050,6 +2077,15 @@
         "Genetik": "GMO x Platinum",
         "Preis": 10.98,
         "Link": "https://cannabisapo24.de/products/avaay-signature-28-1-pg-platinum-garlic"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Beacon GC T30 Garlic Cookies",
+        "Kultivar": "Garlic Cookies",
+        "THC/CBD": "30,3/<1",
+        "Genetik": "Girl Scout Cookies x Chemdawg",
+        "Preis": 10.98,
+        "Link": "https://cannabisapo24.de/products/beacon-gc-t30-garlic-cookies"
     },
     {
         "Lager": "instock",
@@ -2242,6 +2278,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "420 Compound 30/1 CA GAP Gastro Pop",
+        "Kultivar": "Gastro Pop",
+        "THC/CBD": "29,91/<1",
+        "Genetik": "Apples x Bananas x Grape Gasoline",
+        "Preis": 11.54,
+        "Link": "https://cannabisapo24.de/products/420-compound-30-1-ca-gap-gastro-pop"
+    },
+    {
+        "Lager": "instock",
         "Name": "420 Evolution 33/1 CA PCH",
         "Kultivar": "Peach Chementine",
         "THC/CBD": "33,05/<1",
@@ -2269,24 +2314,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Beacon GC T30 Garlic Cookies",
-        "Kultivar": "Garlic Cookies",
-        "THC/CBD": "30,3/<1",
-        "Genetik": "Girl Scout Cookies x Chemdawg",
-        "Preis": 11.89,
-        "Link": "https://cannabisapo24.de/products/beacon-gc-t30-garlic-cookies"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Peace Naturals 33/1 GC",
-        "Kultivar": "GMO Cookies (Garlic-Mushroom-Onion Cookies)",
-        "THC/CBD": "33,0/<1",
-        "Genetik": "Girl Scout Cookies / Chemdawg",
-        "Preis": 11.89,
-        "Link": "https://cannabisapo24.de/products/peace-naturals-33-1-gc"
-    },
-    {
-        "Lager": "instock",
         "Name": "Bediol (granuliert)",
         "Kultivar": "Elida",
         "THC/CBD": "6,3/8,4",
@@ -2302,6 +2329,15 @@
         "Genetik": "Zkittles x Grand Blueberry Pie",
         "Preis": 11.9,
         "Link": "https://cannabisapo24.de/products/mv-rbp"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Demecan CRAFT Dosidos 24:01",
+        "Kultivar": "Dosidos",
+        "THC/CBD": "25,8/<1",
+        "Genetik": "Face Off OG x Girl Scout Cookies",
+        "Preis": 11.98,
+        "Link": "https://cannabisapo24.de/products/demecan-craft-dosidos-24-01"
     },
     {
         "Lager": "instock",
@@ -2350,6 +2386,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Demecan Craft D-Jungle 31:01",
+        "Kultivar": "Purple Punch x Jungle Cake",
+        "THC/CBD": "30,6/<1",
+        "Genetik": "",
+        "Preis": 12.61,
+        "Link": "https://cannabisapo24.de/products/demecan-craft-d-jungle-31-01"
+    },
+    {
+        "Lager": "instock",
         "Name": "Demecan CRAFT FCF 31:01",
         "Kultivar": "First Class Funk",
         "THC/CBD": "28,3/<1",
@@ -2374,15 +2419,6 @@
         "Genetik": "Glitter Bomb x Gastro Pop #5",
         "Preis": 12.61,
         "Link": "https://cannabisapo24.de/products/demecan-mc-regular-drop-glitter-pop-bomb"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Demecan Craft D-Jungle 31:01",
-        "Kultivar": "Purple Punch x Jungle Cake",
-        "THC/CBD": "30,6/<1",
-        "Genetik": "",
-        "Preis": 12.61,
-        "Link": "https://cannabisapo24.de/products/demecan-craft-d-jungle-31-01"
     },
     {
         "Lager": "instock",
@@ -2638,15 +2674,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "420 Compound 30/1 CA GAP Gastro Pop",
-        "Kultivar": "Gastro Pop",
-        "THC/CBD": "29,91/<1",
-        "Genetik": "Apples x Bananas x Grape Gasoline",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/420-compound-30-1-ca-gap-gastro-pop"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "420 Evolution 22/1 CA Mac 1",
         "Kultivar": "MAC 1",
         "THC/CBD": "20,57/<0,1",
@@ -2662,15 +2689,6 @@
         "Genetik": "Sundae Driver / Plum Wine OG",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/420-evolution-22-1-ca-pld"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "420 Evolution 25/1 CA ICC",
-        "Kultivar": "Icecream Cake Kush Mints",
-        "THC/CBD": "23,5/<1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/420-evolution-25-1-ca-icc"
     },
     {
         "Lager": "outofstock",
@@ -4402,6 +4420,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "CNBS GELO 20/1",
+        "Kultivar": "Gelonade",
+        "THC/CBD": "21,7/<1",
+        "Genetik": "Gelato 41 / Lemon Tree",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/cnbs-gelo-20-1"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Costa Canna Dynamics - fortissimo",
         "Kultivar": "Liberty Haze",
         "THC/CBD": "31,3/<1",
@@ -4780,15 +4807,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Enua 30/1 DSH CA",
-        "Kultivar": "Dark Shadow Haze",
-        "THC/CBD": "0/<1",
-        "Genetik": "Grape Ape / Nevil's Wreck",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/enua-30-1-dsh-ca"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Enua 30/1 SLC CA",
         "Kultivar": "Slurricane",
         "THC/CBD": "32,4/<1",
@@ -4984,15 +5002,6 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/imc-thc25-t03-gg4"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "IMC THC25 T04 - Strawberry OG",
-        "Kultivar": "Strawberry OG",
-        "THC/CBD": "25/<1",
-        "Genetik": "Bruce Banner / San Fernando Valley OG",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/imc-thc25-t04-strawberry-og"
     },
     {
         "Lager": "outofstock",
@@ -5491,6 +5500,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Peace Naturals 33/1 GC",
+        "Kultivar": "GMO Cookies (Garlic-Mushroom-Onion Cookies)",
+        "THC/CBD": "33,0/<1",
+        "Genetik": "Girl Scout Cookies / Chemdawg",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/peace-naturals-33-1-gc"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Peace Naturals 33/1 SC",
         "Kultivar": "Space Cake",
         "THC/CBD": "33,8/<1",
@@ -5587,6 +5605,15 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/re-cannis-3-1-extrakt"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Remexian 14/1 White Widow",
+        "Kultivar": "White Widow",
+        "THC/CBD": "14,0/1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/remexian-14-1-white-widow"
     },
     {
         "Lager": "outofstock",
