@@ -55,6 +55,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Drapalin 25/1 Cheesotho - Extrakt",
+        "Kultivar": "Cheesotho",
+        "THC/CBD": "25/1",
+        "Genetik": "",
+        "Preis": 4.58,
+        "Link": "https://cannabisapo24.de/products/drapalin-25-1-cheesotho-extrakt"
+    },
+    {
+        "Lager": "instock",
         "Name": "ACA 10/10 C - Extrakt",
         "Kultivar": null,
         "THC/CBD": "10/10",
@@ -91,15 +100,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Cannamedical THC30 - Extrakt",
-        "Kultivar": "Gorilla Skittlez",
-        "THC/CBD": "30/0",
-        "Genetik": "",
-        "Preis": 5.24,
-        "Link": "https://cannabisapo24.de/products/cannamedical-thc30-extrakt"
-    },
-    {
-        "Lager": "instock",
         "Name": "ACA 25/1 C - Extrakt",
         "Kultivar": null,
         "THC/CBD": "25/1",
@@ -115,6 +115,15 @@
         "Genetik": "",
         "Preis": 5.56,
         "Link": "https://cannabisapo24.de/products/somai-hybrid-25-25-extrakt"
+    },
+    {
+        "Lager": "instock",
+        "Name": "madrecan 18/1 GDY Granddaddy OG",
+        "Kultivar": "Granddaddy OG",
+        "THC/CBD": "18,7/<1",
+        "Genetik": "Larry OG x Granddaddy Purple",
+        "Preis": 5.59,
+        "Link": "https://cannabisapo24.de/products/madrecan-18-1-gdy-granddaddy-og"
     },
     {
         "Lager": "instock",
@@ -145,6 +154,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Cannamedical THC50 - Extrakt",
+        "Kultivar": "Crazy RNTZ",
+        "THC/CBD": "50/0",
+        "Genetik": "",
+        "Preis": 5.97,
+        "Link": "https://cannabisapo24.de/products/cannamedical-thc50-extrakt"
+    },
+    {
+        "Lager": "instock",
         "Name": "Remexian 16/1 - Nordle",
         "Kultivar": "Nordle",
         "THC/CBD": "15,4/<1",
@@ -169,15 +187,6 @@
         "Genetik": "",
         "Preis": 6.24,
         "Link": "https://cannabisapo24.de/products/cannamedical-thc25-el-jefe-extrakt"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Canify Flos 18/1 UY GG - Gorilla Glue",
-        "Kultivar": "Gorilla Glue",
-        "THC/CBD": "17,9/<1",
-        "Genetik": "",
-        "Preis": 6.25,
-        "Link": "https://cannabisapo24.de/products/canify-flos-18-1-uy-gg-gorilla-glue"
     },
     {
         "Lager": "instock",
@@ -214,6 +223,15 @@
         "Genetik": "",
         "Preis": 6.55,
         "Link": "https://cannabisapo24.de/products/remexian-20-1-nordle"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Cannamedical THC20:CBD20 - Extrakt",
+        "Kultivar": "Gelato Dream",
+        "THC/CBD": "20/20",
+        "Genetik": "",
+        "Preis": 6.69,
+        "Link": "https://cannabisapo24.de/products/cannamedical-thc20-cbd20-extrakt"
     },
     {
         "Lager": "instock",
@@ -298,6 +316,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Stratus Indica 3",
+        "Kultivar": "Death Star",
+        "THC/CBD": "19,6/<1",
+        "Genetik": "",
+        "Preis": 6.99,
+        "Link": "https://cannabisapo24.de/products/stratus-indica-3"
+    },
+    {
+        "Lager": "instock",
         "Name": "CanPharma X 25/25 - Extrakt",
         "Kultivar": "Adrex High CBD Adrex High THC",
         "THC/CBD": "25/25",
@@ -331,15 +358,6 @@
         "Genetik": "",
         "Preis": 7.19,
         "Link": "https://cannabisapo24.de/products/khiron-g-19-1-gelato"
-    },
-    {
-        "Lager": "instock",
-        "Name": "ADREX 24/1 VC CAN",
-        "Kultivar": "Vanilla Cake",
-        "THC/CBD": "23,5/0,1",
-        "Genetik": "Wedding Cake / Gelato # 33",
-        "Preis": 7.2,
-        "Link": "https://cannabisapo24.de/products/adrex-24-1-vc-can"
     },
     {
         "Lager": "instock",
@@ -442,15 +460,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Cannamedical Indica forte ZAF",
-        "Kultivar": "Black Cherry Punch",
-        "THC/CBD": "22,7/<1",
-        "Genetik": "Black Cherry Pie x Purple Punch",
-        "Preis": 7.5,
-        "Link": "https://cannabisapo24.de/products/cannamedical-indica-forte-zaf"
-    },
-    {
-        "Lager": "instock",
         "Name": "Cannamedical THC50:CBD50 - Extrakt",
         "Kultivar": "Crazy RNTZ",
         "THC/CBD": "50/50",
@@ -475,6 +484,15 @@
         "Genetik": "",
         "Preis": 7.62,
         "Link": "https://cannabisapo24.de/products/aca-24-1-c"
+    },
+    {
+        "Lager": "instock",
+        "Name": "IMC GGA THC22",
+        "Kultivar": "Purple Grape",
+        "THC/CBD": "21,2/1",
+        "Genetik": "OGKB x Lost Sailor x Platinum Kush",
+        "Preis": 7.62,
+        "Link": "https://cannabisapo24.de/products/imc-gga-thc22"
     },
     {
         "Lager": "instock",
@@ -757,6 +775,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "MCCN No. 8",
+        "Kultivar": "OG Kush",
+        "THC/CBD": "23,1/<1",
+        "Genetik": "Lemon Thai x ChemDawg",
+        "Preis": 7.97,
+        "Link": "https://cannabisapo24.de/products/mccn-no-8"
+    },
+    {
+        "Lager": "instock",
         "Name": "Remexian 28/1",
         "Kultivar": "Godfather OG X SCHROLL-MEDICAL-873422",
         "THC/CBD": "28,0/<1",
@@ -928,12 +955,12 @@
     },
     {
         "Lager": "instock",
-        "Name": "MCCN No. 8",
-        "Kultivar": "OG Kush",
-        "THC/CBD": "23,1/<1",
-        "Genetik": "Lemon Thai x ChemDawg",
+        "Name": "Remexian 30/1 BKC",
+        "Kultivar": "Black Kyber Crystal",
+        "THC/CBD": "28,98/<1",
+        "Genetik": "Slurricane x Death Star",
         "Preis": 8.33,
-        "Link": "https://cannabisapo24.de/products/mccn-no-8"
+        "Link": "https://cannabisapo24.de/products/remexian-30-1-bkc"
     },
     {
         "Lager": "instock",
@@ -1081,21 +1108,12 @@
     },
     {
         "Lager": "instock",
-        "Name": "Khiron LBO 24/1",
-        "Kultivar": "Lemon Berry OG",
-        "THC/CBD": "24,5/<1",
-        "Genetik": "OG Kush x Pink Afghan",
-        "Preis": 8.87,
-        "Link": "https://cannabisapo24.de/products/khiron-lbo-24-1"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Khiron SLH 24/1",
-        "Kultivar": "Super Lemon Haze",
-        "THC/CBD": "22,1/<1",
-        "Genetik": "Lemon Skunk x Super Silver Haze",
-        "Preis": 8.87,
-        "Link": "https://cannabisapo24.de/products/khiron-slh-24-1"
+        "Name": "420 Natural 20/1 CA GG4",
+        "Kultivar": "Gorilla Glue",
+        "THC/CBD": "18,7/<1",
+        "Genetik": "Chem´s Sister x Sour Dubb x Chocolate Diesel",
+        "Preis": 8.93,
+        "Link": "https://cannabisapo24.de/products/420-natural-20-1-ca"
     },
     {
         "Lager": "instock",
@@ -1177,15 +1195,6 @@
         "Genetik": "Animal Cookies x OGKB x Wet Dream",
         "Preis": 8.93,
         "Link": "https://cannabisapo24.de/products/sumo-canada-craft-no-4"
-    },
-    {
-        "Lager": "instock",
-        "Name": "All Nations LT PT",
-        "Kultivar": "Lemon Tartz",
-        "THC/CBD": "22,9/<1",
-        "Genetik": "Super Lemon Haze x Wedding Cake",
-        "Preis": 8.98,
-        "Link": "https://cannabisapo24.de/products/all-nations-lt-pt"
     },
     {
         "Lager": "instock",
@@ -1387,21 +1396,21 @@
     },
     {
         "Lager": "instock",
+        "Name": "GROW 27 Pl",
+        "Kultivar": "Pink Lilac",
+        "THC/CBD": "25,7/<1",
+        "Genetik": "",
+        "Preis": 9.47,
+        "Link": "https://cannabisapo24.de/products/grow-27-pl"
+    },
+    {
+        "Lager": "instock",
         "Name": "Remexian 30/1 PRT Mokum’s Tulip",
         "Kultivar": "Mokum’s Tulip",
         "THC/CBD": "31,4/<1",
         "Genetik": "Gelato x Sunset Sherbert",
         "Preis": 9.48,
         "Link": "https://cannabisapo24.de/products/remexian-30-1-prt-mokum-s-tulip"
-    },
-    {
-        "Lager": "instock",
-        "Name": "420 Natural 17/1 CA TRP - Tropicana Cookies",
-        "Kultivar": "Tropicana Cookies",
-        "THC/CBD": "16,40/<1",
-        "Genetik": "Girl Scout Cookies / Tangie",
-        "Preis": 9.5,
-        "Link": "https://cannabisapo24.de/products/420-natural-17-1-ca-trp-tropicana-cookies"
     },
     {
         "Lager": "instock",
@@ -1567,6 +1576,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Typ 1 Aurora",
+        "Kultivar": "Island Sweet Skunk",
+        "THC/CBD": "20,3/<1",
+        "Genetik": "",
+        "Preis": 9.88,
+        "Link": "https://cannabisapo24.de/products/typ-1-aurora"
+    },
+    {
+        "Lager": "instock",
         "Name": "Typ 1 Demecan",
         "Kultivar": "Bubba Kush",
         "THC/CBD": "22,1/<1",
@@ -1582,15 +1600,6 @@
         "Genetik": "",
         "Preis": 9.88,
         "Link": "https://cannabisapo24.de/products/demecan-typ-2"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Typ 1 Aurora",
-        "Kultivar": "Island Sweet Skunk",
-        "THC/CBD": "20,3/<1",
-        "Genetik": "",
-        "Preis": 9.88,
-        "Link": "https://cannabisapo24.de/products/typ-1-aurora"
     },
     {
         "Lager": "instock",
@@ -1672,6 +1681,15 @@
         "Genetik": "",
         "Preis": 9.98,
         "Link": "https://cannabisapo24.de/products/canopy-hsk-8-7"
+    },
+    {
+        "Lager": "instock",
+        "Name": "CM 24/1 PG - Platinum Grapes",
+        "Kultivar": "Platinum Grapes",
+        "THC/CBD": "22,1/<1",
+        "Genetik": "OGKB x Platinum Kush",
+        "Preis": 9.98,
+        "Link": "https://cannabisapo24.de/products/cm-24-1-pg-platinum-grapes"
     },
     {
         "Lager": "instock",
@@ -1891,15 +1909,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Pedanios 27/1 BLY-CA",
-        "Kultivar": "Black Jelly",
-        "THC/CBD": "28,4/<1",
-        "Genetik": "Alien Cake 3030 x T037",
-        "Preis": 10.35,
-        "Link": "https://cannabisapo24.de/products/pedanios-27-1-bly-ca"
-    },
-    {
-        "Lager": "instock",
         "Name": "Pedanios 27/1 FRG-CA",
         "Kultivar": "Farm Gas (FRG)",
         "THC/CBD": "24,7/<1",
@@ -1981,6 +1990,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Demecan CRAFT zoer0 25:01",
+        "Kultivar": "Oreoz",
+        "THC/CBD": "24,5/<1",
+        "Genetik": "Cookies & Cream / Secret Weapon",
+        "Preis": 10.59,
+        "Link": "https://cannabisapo24.de/products/demecan-craft-zoer0-25-01"
+    },
+    {
+        "Lager": "instock",
         "Name": "Demecan Oktonia Typ1 25:01 - Extrakt",
         "Kultivar": null,
         "THC/CBD": "25/1",
@@ -2005,6 +2023,15 @@
         "Genetik": "Spritzer x Grape Gas",
         "Preis": 10.71,
         "Link": "https://cannabisapo24.de/products/420-compound-22-1-ca-mwz"
+    },
+    {
+        "Lager": "instock",
+        "Name": "420 Evolution 25/1 CA ICC",
+        "Kultivar": "Icecream Cake Kush Mints",
+        "THC/CBD": "23,5/<1",
+        "Genetik": "",
+        "Preis": 10.71,
+        "Link": "https://cannabisapo24.de/products/420-evolution-25-1-ca-icc"
     },
     {
         "Lager": "instock",
@@ -2104,6 +2131,24 @@
         "Genetik": "Chem 91 x Star Fighter x White 91",
         "Preis": 10.83,
         "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-bul"
+    },
+    {
+        "Lager": "instock",
+        "Name": "BC Green TCK 33/1",
+        "Kultivar": "Tiger Cake",
+        "THC/CBD": "33/<1",
+        "Genetik": "Layer Cake x The Menthol",
+        "Preis": 10.9,
+        "Link": "https://cannabisapo24.de/products/bc-green-tck-33-1"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Top Shelf Medical S1E1-27",
+        "Kultivar": "Flawless Victory",
+        "THC/CBD": "25,8/<1",
+        "Genetik": "Ice Cream Cake x Cherry Cheesecake",
+        "Preis": 10.9,
+        "Link": "https://cannabisapo24.de/products/top-shelf-medical-s1e1-28"
     },
     {
         "Lager": "instock",
@@ -2314,15 +2359,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "GROW 27 Pl",
-        "Kultivar": "Pink Lilac",
-        "THC/CBD": "25,7/<1",
-        "Genetik": "",
-        "Preis": 11.31,
-        "Link": "https://cannabisapo24.de/products/grow-27-pl"
-    },
-    {
-        "Lager": "instock",
         "Name": "Cannamedical Balanced classic 8/8",
         "Kultivar": "California Orange",
         "THC/CBD": "5,7/10,4",
@@ -2350,15 +2386,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "420 Compound 30/1 CA GAP Gastro Pop",
-        "Kultivar": "Gastro Pop",
-        "THC/CBD": "29,91/<1",
-        "Genetik": "Apples x Bananas x Grape Gasoline",
-        "Preis": 11.54,
-        "Link": "https://cannabisapo24.de/products/420-compound-30-1-ca-gap-gastro-pop"
-    },
-    {
-        "Lager": "instock",
         "Name": "420 Evolution 33/1 CA PCH",
         "Kultivar": "Peach Chementine",
         "THC/CBD": "33,05/<1",
@@ -2377,21 +2404,21 @@
     },
     {
         "Lager": "instock",
-        "Name": "AVAAY 28/1 AHC - Amnesia Haze Cake",
-        "Kultivar": "Amnesia Haze Cake",
-        "THC/CBD": "28,0/<1",
-        "Genetik": "Ice Cream Cake x Amnesia Haze",
-        "Preis": 11.72,
-        "Link": "https://cannabisapo24.de/products/avaay-28-1-ahc-amnesia-haze-cake"
-    },
-    {
-        "Lager": "instock",
         "Name": "Cannamedical Hybrid Ultra DK - Ghost Train Haze",
         "Kultivar": "Ghost Train Haze",
         "THC/CBD": "25,9/<1",
         "Genetik": "Ghost OG x Neville's Wreck",
         "Preis": 11.77,
         "Link": "https://cannabisapo24.de/products/cannamedical-hybrid-ultra-dk-ghost-train-haze"
+    },
+    {
+        "Lager": "instock",
+        "Name": "CM 24/1 Gelati Punch",
+        "Kultivar": "Gelati Punch",
+        "THC/CBD": "22,9/<1",
+        "Genetik": "Chem D / Gelato / Grape Mac",
+        "Preis": 11.8,
+        "Link": "https://cannabisapo24.de/products/cm-24-1-gelati-punch"
     },
     {
         "Lager": "instock",
@@ -2446,15 +2473,6 @@
         "Genetik": "",
         "Preis": 12.45,
         "Link": "https://cannabisapo24.de/products/tilray-thc9-cbd9-no-2"
-    },
-    {
-        "Lager": "instock",
-        "Name": "CM 24/1 Gelati Punch",
-        "Kultivar": "Gelati Punch",
-        "THC/CBD": "22,9/<1",
-        "Genetik": "Chem D / Gelato / Grape Mac",
-        "Preis": 12.5,
-        "Link": "https://cannabisapo24.de/products/cm-24-1-gelati-punch"
     },
     {
         "Lager": "instock",
@@ -2755,6 +2773,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "420 Compound 30/1 CA GAP Gastro Pop",
+        "Kultivar": "Gastro Pop",
+        "THC/CBD": "29,91/<1",
+        "Genetik": "Apples x Bananas x Grape Gasoline",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-compound-30-1-ca-gap-gastro-pop"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "420 Evolution 22/1 CA Mac 1",
         "Kultivar": "MAC 1",
         "THC/CBD": "20,57/<0,1",
@@ -2770,15 +2797,6 @@
         "Genetik": "Sundae Driver / Plum Wine OG",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/420-evolution-22-1-ca-pld"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "420 Evolution 25/1 CA ICC",
-        "Kultivar": "Icecream Cake Kush Mints",
-        "THC/CBD": "23,5/<1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/420-evolution-25-1-ca-icc"
     },
     {
         "Lager": "outofstock",
@@ -2899,6 +2917,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "420 Natural 17/1 CA TRP - Tropicana Cookies",
+        "Kultivar": "Tropicana Cookies",
+        "THC/CBD": "16,40/<1",
+        "Genetik": "Girl Scout Cookies / Tangie",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-natural-17-1-ca-trp-tropicana-cookies"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "420 Natural 18/1 CA ZRP",
         "Kultivar": "Zour Apple",
         "THC/CBD": "18/<1",
@@ -2923,15 +2950,6 @@
         "Genetik": "Flo / Afghan / Juicy Fruit Thai",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/420-natural-22-1-ca-dbb"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "420 Natural 20/1 CA GG4",
-        "Kultivar": "Gorilla Glue",
-        "THC/CBD": "18,7/<1",
-        "Genetik": "Chem´s Sister x Sour Dubb x Chocolate Diesel",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/420-natural-20-1-ca"
     },
     {
         "Lager": "outofstock",
@@ -3013,6 +3031,15 @@
         "Genetik": "Sour Dubb x Chem´s Sister x Chocolate Diesel",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/adrex-24-1-gg4-can"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "ADREX 24/1 VC CAN",
+        "Kultivar": "Vanilla Cake",
+        "THC/CBD": "23,5/0,1",
+        "Genetik": "Wedding Cake / Gelato # 33",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/adrex-24-1-vc-can"
     },
     {
         "Lager": "outofstock",
@@ -3157,6 +3184,15 @@
         "Genetik": "Mac 1 X Powdered Doughnuts",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/all-nations-gm-104"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "All Nations LT PT",
+        "Kultivar": "Lemon Tartz",
+        "THC/CBD": "22,9/<1",
+        "Genetik": "Super Lemon Haze x Wedding Cake",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/all-nations-lt-pt"
     },
     {
         "Lager": "outofstock",
@@ -3439,6 +3475,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "AVAAY 28/1 AHC - Amnesia Haze Cake",
+        "Kultivar": "Amnesia Haze Cake",
+        "THC/CBD": "28,0/<1",
+        "Genetik": "Ice Cream Cake x Amnesia Haze",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/avaay-28-1-ahc-amnesia-haze-cake"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "AVAAY 28/1 KH",
         "Kultivar": "Karel's Haze",
         "THC/CBD": "29,9/<1",
@@ -3574,15 +3619,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "BC Green TCK 33/1",
-        "Kultivar": "Tiger Cake",
-        "THC/CBD": "33/<1",
-        "Genetik": "Layer Cake x The Menthol",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/bc-green-tck-33-1"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Beacon I-Hybrid THC18 Wappa",
         "Kultivar": "Wappa",
         "THC/CBD": "18/<1",
@@ -3706,6 +3742,15 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/canify-flos-18-1-pt-pink-kush"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Canify Flos 18/1 UY GG - Gorilla Glue",
+        "Kultivar": "Gorilla Glue",
+        "THC/CBD": "17,9/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/canify-flos-18-1-uy-gg-gorilla-glue"
     },
     {
         "Lager": "outofstock",
@@ -4114,6 +4159,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Cannamedical Indica forte ZAF",
+        "Kultivar": "Black Cherry Punch",
+        "THC/CBD": "22,7/<1",
+        "Genetik": "Black Cherry Pie x Purple Punch",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/cannamedical-indica-forte-zaf"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Cannamedical Indica ultra",
         "Kultivar": "Crazy RNTZ",
         "THC/CBD": "25,4/<1",
@@ -4240,21 +4294,12 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Cannamedical THC20:CBD20 - Extrakt",
-        "Kultivar": "Gelato Dream",
-        "THC/CBD": "20/20",
+        "Name": "Cannamedical THC30 - Extrakt",
+        "Kultivar": "Gorilla Skittlez",
+        "THC/CBD": "30/0",
         "Genetik": "",
         "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/cannamedical-thc20-cbd20-extrakt"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "Cannamedical THC50 - Extrakt",
-        "Kultivar": "Crazy RNTZ",
-        "THC/CBD": "50/0",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/cannamedical-thc50-extrakt"
+        "Link": "https://cannabisapo24.de/products/cannamedical-thc30-extrakt"
     },
     {
         "Lager": "outofstock",
@@ -4399,15 +4444,6 @@
         "Genetik": "AK-47 x Purple OG Genetiken",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/cm-20-1-karl-og"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "CM 24/1 PG - Platinum Grapes",
-        "Kultivar": "Platinum Grapes",
-        "THC/CBD": "22,1/<1",
-        "Genetik": "OGKB x Platinum Kush",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/cm-24-1-pg-platinum-grapes"
     },
     {
         "Lager": "outofstock",
@@ -4627,15 +4663,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Demecan CRAFT zoer0 25:01",
-        "Kultivar": "Oreoz",
-        "THC/CBD": "24,5/<1",
-        "Genetik": "Cookies & Cream / Secret Weapon",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/demecan-craft-zoer0-25-01"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Demecan Oktonia Typ2 10:10 - Extrakt",
         "Kultivar": null,
         "THC/CBD": "10/10",
@@ -4705,15 +4732,6 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/drapalin-25-1-bafokeng-choice-extrakt"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "Drapalin 25/1 Cheesotho - Extrakt",
-        "Kultivar": "Cheesotho",
-        "THC/CBD": "25/1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/drapalin-25-1-cheesotho-extrakt"
     },
     {
         "Lager": "outofstock",
@@ -4987,15 +5005,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "IMC GGA THC22",
-        "Kultivar": "Purple Grape",
-        "THC/CBD": "21,2/1",
-        "Genetik": "OGKB x Lost Sailor x Platinum Kush",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/imc-gga-thc22"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "IMC OOG THC25 - Outdoor OG Kush",
         "Kultivar": "Outdoor OG Kush",
         "THC/CBD": "25,0/<1",
@@ -5122,6 +5131,24 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Khiron LBO 24/1",
+        "Kultivar": "Lemon Berry OG",
+        "THC/CBD": "24,5/<1",
+        "Genetik": "OG Kush x Pink Afghan",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/khiron-lbo-24-1"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Khiron SLH 24/1",
+        "Kultivar": "Super Lemon Haze",
+        "THC/CBD": "22,1/<1",
+        "Genetik": "Lemon Skunk x Super Silver Haze",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/khiron-slh-24-1"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "LGP Classic 10:10 - Extrakt",
         "Kultivar": "keine Angabe",
         "THC/CBD": "10/10",
@@ -5164,15 +5191,6 @@
         "Genetik": "Mimosa / Orangeade",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/lot-420-oc"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "madrecan 18/1 GDY Granddaddy OG",
-        "Kultivar": "Granddaddy OG",
-        "THC/CBD": "18,7/<1",
-        "Genetik": "Larry OG x Granddaddy Purple",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/madrecan-18-1-gdy-granddaddy-og"
     },
     {
         "Lager": "outofstock",
@@ -5599,6 +5617,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Pedanios 27/1 BLY-CA",
+        "Kultivar": "Black Jelly",
+        "THC/CBD": "28,4/<1",
+        "Genetik": "Alien Cake 3030 x T037",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/pedanios-27-1-bly-ca"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Pure Sunfarms 20/1",
         "Kultivar": "Pink Kush",
         "THC/CBD": "20/<1",
@@ -5752,15 +5779,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Remexian 30/1 BKC",
-        "Kultivar": "Black Kyber Crystal",
-        "THC/CBD": "28,98/<1",
-        "Genetik": "Slurricane x Death Star",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/remexian-30-1-bkc"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "Remexian 30/1 GMO",
         "Kultivar": "GMO Breath",
         "THC/CBD": "28,7/1",
@@ -5794,15 +5812,6 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/stratus-indica"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "Stratus Indica 3",
-        "Kultivar": "Death Star",
-        "THC/CBD": "19,6/<1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/stratus-indica-3"
     },
     {
         "Lager": "outofstock",
@@ -6118,15 +6127,6 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/tilray-thc25-spotlight-porto-white-widow"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "Top Shelf Medical S1E1-27",
-        "Kultivar": "Flawless Victory",
-        "THC/CBD": "25,8/<1",
-        "Genetik": "Ice Cream Cake x Cherry Cheesecake",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/top-shelf-medical-s1e1-28"
     },
     {
         "Lager": "outofstock",
