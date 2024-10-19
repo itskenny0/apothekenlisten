@@ -280,6 +280,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "420 SUNGROWN 25/1 CA JEL",
+        "Kultivar": "Jet Fuel Gelato",
+        "THC/CBD": "25,54/<1",
+        "Genetik": "Gelato 45 / High Octane OG / Jet Fuel G6 ",
+        "Preis": 6.9,
+        "Link": "https://cannabisapo24.de/products/420-sungrown-25-1-ca-jel"
+    },
+    {
+        "Lager": "instock",
         "Name": "IMC THC22 T02 OG Kush",
         "Kultivar": "OG Kush",
         "THC/CBD": "22,0/<1",
@@ -493,15 +502,6 @@
         "Genetik": "",
         "Preis": 7.62,
         "Link": "https://cannabisapo24.de/products/aca-24-1-c"
-    },
-    {
-        "Lager": "instock",
-        "Name": "IMC GGA THC22",
-        "Kultivar": "Purple Grape",
-        "THC/CBD": "21,2/1",
-        "Genetik": "OGKB x Lost Sailor x Platinum Kush",
-        "Preis": 7.62,
-        "Link": "https://cannabisapo24.de/products/imc-gga-thc22"
     },
     {
         "Lager": "instock",
@@ -739,7 +739,7 @@
     },
     {
         "Lager": "instock",
-        "Name": "IMC GL41 THC20 Gelato #41",
+        "Name": "IMC GL41 THC20 Gelato 41",
         "Kultivar": "Gelato #41",
         "THC/CBD": "20,2/<1",
         "Genetik": "Sunset Sherbert x Thin Mint (GSC)",
@@ -862,6 +862,15 @@
         "Genetik": "Peppermint Agave x Rainbow Cheddar",
         "Preis": 7.98,
         "Link": "https://cannabisapo24.de/products/imc-9ppa-thc20-peppermint"
+    },
+    {
+        "Lager": "instock",
+        "Name": "IMC GPI THC 26 Grappie Pie",
+        "Kultivar": "Grappie Pie",
+        "THC/CBD": "25,5/<1",
+        "Genetik": "Apple Fritter x Grape Gasoline #1",
+        "Preis": 7.98,
+        "Link": "https://cannabisapo24.de/products/imc-gpi-thc-26-grappie-pie"
     },
     {
         "Lager": "instock",
@@ -1060,15 +1069,6 @@
         "Genetik": "Legend OG / Larry OG F7",
         "Preis": 8.56,
         "Link": "https://cannabisapo24.de/products/cannamedical-cm-20-1-lly"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Enua 30/1 SLC CA",
-        "Kultivar": "Slurricane",
-        "THC/CBD": "32,4/<1",
-        "Genetik": "Dosidos / Purple Punch",
-        "Preis": 8.57,
-        "Link": "https://cannabisapo24.de/products/enua-30-1-slc-ca"
     },
     {
         "Lager": "instock",
@@ -2053,15 +2053,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "420 Evolution 25/1 CA ICC",
-        "Kultivar": "Icecream Cake Kush Mints",
-        "THC/CBD": "23,5/<1",
-        "Genetik": "",
-        "Preis": 10.71,
-        "Link": "https://cannabisapo24.de/products/420-evolution-25-1-ca-icc"
-    },
-    {
-        "Lager": "instock",
         "Name": "Cannamedical Hybrid classic NM - Critical Bilbo",
         "Kultivar": "Critical Bilbo",
         "THC/CBD": "20,9/<1",
@@ -2323,6 +2314,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "420 Evolution 27/1 CA MMI Miracle Mints",
+        "Kultivar": "Miracle Mints",
+        "THC/CBD": "25,98/<1",
+        "Genetik": "Alien Cookies x Kush Mints #11",
+        "Preis": 11.31,
+        "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-mmi-miracle-mints"
+    },
+    {
+        "Lager": "instock",
         "Name": "420 Evolution 30/1 CA FLM",
         "Kultivar": "Frozen Lemon Mints",
         "THC/CBD": "28,16/<1",
@@ -2374,24 +2374,6 @@
         "Genetik": "",
         "Preis": 11.46,
         "Link": "https://cannabisapo24.de/products/naxiva-panaxol-thc25"
-    },
-    {
-        "Lager": "instock",
-        "Name": "420 Compound 30/1 CA GAP Gastro Pop",
-        "Kultivar": "Gastro Pop",
-        "THC/CBD": "29,91/<1",
-        "Genetik": "Apples x Bananas x Grape Gasoline",
-        "Preis": 11.54,
-        "Link": "https://cannabisapo24.de/products/420-compound-30-1-ca-gap-gastro-pop"
-    },
-    {
-        "Lager": "instock",
-        "Name": "420 Evolution 33/1 CA PCH",
-        "Kultivar": "Peach Chementine",
-        "THC/CBD": "33,05/<1",
-        "Genetik": "Chem D x i95 x Mandarin Cookies x Peach Ringz",
-        "Preis": 11.54,
-        "Link": "https://cannabisapo24.de/products/420-evolution-33-1-ca-pch"
     },
     {
         "Lager": "instock",
@@ -2782,6 +2764,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "420 Compound 30/1 CA GAP Gastro Pop",
+        "Kultivar": "Gastro Pop",
+        "THC/CBD": "29,91/<1",
+        "Genetik": "Apples x Bananas x Grape Gasoline",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-compound-30-1-ca-gap-gastro-pop"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "420 Evolution 22/1 CA Mac 1",
         "Kultivar": "MAC 1",
         "THC/CBD": "20,57/<0,1",
@@ -2797,6 +2788,15 @@
         "Genetik": "Sundae Driver / Plum Wine OG",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/420-evolution-22-1-ca-pld"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "420 Evolution 25/1 CA ICC",
+        "Kultivar": "Icecream Cake Kush Mints",
+        "THC/CBD": "23,5/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-evolution-25-1-ca-icc"
     },
     {
         "Lager": "outofstock",
@@ -2905,6 +2905,15 @@
         "Genetik": "White Wedding / Girl Scout Cookies",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/420-evolution-30-1-ca-tgp"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "420 Evolution 33/1 CA PCH",
+        "Kultivar": "Peach Chementine",
+        "THC/CBD": "33,05/<1",
+        "Genetik": "Chem D x i95 x Mandarin Cookies x Peach Ringz",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-evolution-33-1-ca-pch"
     },
     {
         "Lager": "outofstock",
@@ -4897,6 +4906,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Enua 30/1 SLC CA",
+        "Kultivar": "Slurricane",
+        "THC/CBD": "32,4/<1",
+        "Genetik": "Dosidos / Purple Punch",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/enua-30-1-slc-ca"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Epic Drop",
         "Kultivar": "Space Cake",
         "THC/CBD": "30/<1",
@@ -5029,6 +5047,15 @@
         "Genetik": "Blueberry x Haze x Orange CBD",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/imc-balanced-7-8-b01-blue-dream"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "IMC GGA THC22",
+        "Kultivar": "Purple Grape",
+        "THC/CBD": "21,2/1",
+        "Genetik": "OGKB x Lost Sailor x Platinum Kush",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/imc-gga-thc22"
     },
     {
         "Lager": "outofstock",
