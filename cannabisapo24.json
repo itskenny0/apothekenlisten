@@ -10,6 +10,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "SOMAI Hybrid 10:10 - Extrakt",
+        "Kultivar": "Mac 22",
+        "THC/CBD": "10/10",
+        "Genetik": "",
+        "Preis": 3.57,
+        "Link": "https://cannabisapo24.de/products/somai-hybrid-10-10-extrakt"
+    },
+    {
+        "Lager": "instock",
         "Name": "SOMAI Hybrid 25:1 - Extrakt",
         "Kultivar": "Mac 22",
         "THC/CBD": "25/1",
@@ -307,15 +316,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Canify Flos 20/1 UY  - Big Buddha",
-        "Kultivar": "Big Buddha",
-        "THC/CBD": "19,9/<1",
-        "Genetik": "",
-        "Preis": 6.97,
-        "Link": "https://cannabisapo24.de/products/canify-flos-20-1-uy-big-buddha"
-    },
-    {
-        "Lager": "instock",
         "Name": "Adrex 21 LMOG COL",
         "Kultivar": "Lemon OG",
         "THC/CBD": "20,0/<1",
@@ -358,15 +358,6 @@
         "Genetik": "",
         "Preis": 7.08,
         "Link": "https://cannabisapo24.de/products/canpharma-x-25-25-extrakt"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Cannamedical Sativa light -  Strawberry Ice",
-        "Kultivar": "Strawberry Ice",
-        "THC/CBD": "17,3/<1",
-        "Genetik": "",
-        "Preis": 7.14,
-        "Link": "https://cannabisapo24.de/products/cannamedical-sativa-light-1"
     },
     {
         "Lager": "instock",
@@ -493,15 +484,6 @@
         "Genetik": "Gorilla Glue #4 x Chem Dawg",
         "Preis": 7.5,
         "Link": "https://cannabisapo24.de/products/cannamedical-hybrid-forte-ury"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Supreme 24/1",
-        "Kultivar": "Frosted Lemon Cake",
-        "THC/CBD": "23,8/<1",
-        "Genetik": "",
-        "Preis": 7.5,
-        "Link": "https://cannabisapo24.de/products/supreme-24-1"
     },
     {
         "Lager": "instock",
@@ -982,15 +964,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Enua 25/1 SBD CA Strawberry Diesel",
-        "Kultivar": "Strawberry Diesel",
-        "THC/CBD": "23,4/<1",
-        "Genetik": "Strawberry Cough x Sour Diesel",
-        "Preis": 8.21,
-        "Link": "https://cannabisapo24.de/products/enua-25-1-sbd-ca-strawberry-diesel"
-    },
-    {
-        "Lager": "instock",
         "Name": "Weeco 25/1",
         "Kultivar": "Frosted Lemon Angel",
         "THC/CBD": "22,5/<1",
@@ -1087,15 +1060,6 @@
         "Genetik": "Chronic x Cheese und White Widow",
         "Preis": 8.33,
         "Link": "https://cannabisapo24.de/products/enua-25-1-sc-ca"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Remexian 30/1 BKC",
-        "Kultivar": "Black Kyber Crystal",
-        "THC/CBD": "28,98/<1",
-        "Genetik": "Slurricane x Death Star",
-        "Preis": 8.33,
-        "Link": "https://cannabisapo24.de/products/remexian-30-1-bkc"
     },
     {
         "Lager": "instock",
@@ -1249,15 +1213,6 @@
         "Genetik": "",
         "Preis": 8.87,
         "Link": "https://cannabisapo24.de/products/khiron-gk-24-1"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Khiron SLH 24/1",
-        "Kultivar": "Super Lemon Haze",
-        "THC/CBD": "22,1/<1",
-        "Genetik": "Lemon Skunk x Super Silver Haze",
-        "Preis": 8.87,
-        "Link": "https://cannabisapo24.de/products/khiron-slh-24-1"
     },
     {
         "Lager": "instock",
@@ -2428,15 +2383,6 @@
         "Genetik": "Zkittles x Grand Blueberry Pie",
         "Preis": 11.9,
         "Link": "https://cannabisapo24.de/products/mv-rbp"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Cannamedical Sativa Ultra NM - Polar Cookies",
-        "Kultivar": "Polar Cookies",
-        "THC/CBD": "29,7/<1",
-        "Genetik": "Miracle Alien Cookies x Green Crack",
-        "Preis": 11.98,
-        "Link": "https://cannabisapo24.de/products/cannamedical-sativa-ultra-nm-polar-cookies"
     },
     {
         "Lager": "instock",
@@ -3772,6 +3718,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Canify Flos 20/1 UY  - Big Buddha",
+        "Kultivar": "Big Buddha",
+        "THC/CBD": "19,9/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/canify-flos-20-1-uy-big-buddha"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Canify Flos 20/1 UY GG - Gorilla Glue",
         "Kultivar": "Gorilla Glue",
         "THC/CBD": "19,4/<1",
@@ -4348,6 +4303,24 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Cannamedical Sativa light -  Strawberry Ice",
+        "Kultivar": "Strawberry Ice",
+        "THC/CBD": "17,3/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/cannamedical-sativa-light-1"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Cannamedical Sativa Ultra NM - Polar Cookies",
+        "Kultivar": "Polar Cookies",
+        "THC/CBD": "29,7/<1",
+        "Genetik": "Miracle Alien Cookies x Green Crack",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/cannamedical-sativa-ultra-nm-polar-cookies"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Cannamedical Sunshine Coast",
         "Kultivar": "Eve",
         "THC/CBD": "<1/13,61",
@@ -4876,5 +4849,32 @@
         "Genetik": "Sherbert Dab x Gorilla Glue #4",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/enua-21-1-sg-ca"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Enua 22/1 ABG CA Sweets",
+        "Kultivar": "Sweets",
+        "THC/CBD": "23,0/<1",
+        "Genetik": "Guava Gelato x Karma Sour Diesel BX2",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/enua-22-1-abg-ca-sweets"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Enua 22/1 BCP CA",
+        "Kultivar": "Black Cherry Punch",
+        "THC/CBD": "23,6/<1",
+        "Genetik": "Purple Punch x Black Cherry Pie",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/enua-22-1-bcp-ca"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Enua 22/1 CRO CA",
+        "Kultivar": "Crescendo Cookies",
+        "THC/CBD": "22,3/<1",
+        "Genetik": "Chemdawg / i95 / Mandarin Cookies",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/enua-22-1-cro-ca"
     }
 ]
