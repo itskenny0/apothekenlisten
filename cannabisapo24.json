@@ -163,15 +163,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Aurora 25:1 - Extrakt",
-        "Kultivar": "Farm Gas",
-        "THC/CBD": "25/1",
-        "Genetik": "",
-        "Preis": 6.31,
-        "Link": "https://cannabisapo24.de/products/aurora-25-1-extrakt"
-    },
-    {
-        "Lager": "instock",
         "Name": "Cannabis 1A 18/1 Flos Vayamed",
         "Kultivar": "White Widow",
         "THC/CBD": "16,4/1",
@@ -196,15 +187,6 @@
         "Genetik": "",
         "Preis": 6.33,
         "Link": "https://cannabisapo24.de/products/cannamedical-thc20-cbd5-extrakt"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Enua 25/1 QSG CA",
-        "Kultivar": "Queen SanG",
-        "THC/CBD": "24,4/<1",
-        "Genetik": "Mimosa / Royal Kush",
-        "Preis": 6.4,
-        "Link": "https://cannabisapo24.de/products/enua-qsg-ca"
     },
     {
         "Lager": "instock",
@@ -502,15 +484,6 @@
         "Genetik": "",
         "Preis": 7.72,
         "Link": "https://cannabisapo24.de/products/nimbus-easy-22-1-la-sage"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Bathera 23/1 Garlic Funk",
-        "Kultivar": "Garlic Funk",
-        "THC/CBD": "22,8/<1",
-        "Genetik": "GMO X First Class Funk",
-        "Preis": 7.74,
-        "Link": "https://cannabisapo24.de/products/bathera-23-1-garlic-funk"
     },
     {
         "Lager": "instock",
@@ -826,15 +799,6 @@
         "Genetik": "G13 / Afghani",
         "Preis": 7.97,
         "Link": "https://cannabisapo24.de/products/pedanios-14-1-tng-dk"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Canify Flos 20/1 UY PDB - Purple Dog Bud",
-        "Kultivar": "Purple Dog Bud",
-        "THC/CBD": "23,8/<1",
-        "Genetik": "",
-        "Preis": 7.98,
-        "Link": "https://cannabisapo24.de/products/canify-flos-20-1-uy-pdb-purple-dog-bud"
     },
     {
         "Lager": "instock",
@@ -1942,15 +1906,6 @@
         "Genetik": "Critical x Grandaddy Purps x Orange Bud",
         "Preis": 10.23,
         "Link": "https://cannabisapo24.de/products/wellford-23-1-cop-critical-orange-punch"
-    },
-    {
-        "Lager": "instock",
-        "Name": "KEjF. SPZ 29/1 - Spritzer",
-        "Kultivar": "Spritzer",
-        "THC/CBD": "28,9/<1",
-        "Genetik": "Grape Pie / Runtz x MAC",
-        "Preis": 10.26,
-        "Link": "https://cannabisapo24.de/products/kejf-spz-29-1-spritzer"
     },
     {
         "Lager": "instock",
@@ -3439,6 +3394,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Aurora 25:1 - Extrakt",
+        "Kultivar": "Farm Gas",
+        "THC/CBD": "25/1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/aurora-25-1-extrakt"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Aurora 50:50 - Extrakt",
         "Kultivar": "Farm Gas x Vespera",
         "THC/CBD": "50/50",
@@ -3718,6 +3682,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Bathera 23/1 Garlic Funk",
+        "Kultivar": "Garlic Funk",
+        "THC/CBD": "22,8/<1",
+        "Genetik": "GMO X First Class Funk",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/bathera-23-1-garlic-funk"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Bathera 24/1 ZS Z-Splitter",
         "Kultivar": "Z-Splitter",
         "THC/CBD": "22,6/<1",
@@ -3931,6 +3904,15 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/kopie-von-canify-flos-20-1-uy-gg-gorilla-glue"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Canify Flos 20/1 UY PDB - Purple Dog Bud",
+        "Kultivar": "Purple Dog Bud",
+        "THC/CBD": "23,8/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/canify-flos-20-1-uy-pdb-purple-dog-bud"
     },
     {
         "Lager": "outofstock",
@@ -4930,5 +4912,14 @@
         "Genetik": "Cherry AK-47 x Kush Mints #11",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/demecan-organic-mc-25-01"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Demecan Sunshine Cresina 24:01",
+        "Kultivar": "Creamy Kee´s",
+        "THC/CBD": "22,7/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/demecan-sunshine-cresina-24-01"
     }
 ]
