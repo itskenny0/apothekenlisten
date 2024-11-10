@@ -199,15 +199,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Aurora THC 25 Extract 1",
-        "Kultivar": "LA Confidential",
-        "THC/CBD": "25/1",
-        "Genetik": "",
-        "Preis": 6.31,
-        "Link": "https://cannabisapo24.de/products/aurora-thc-25-extract-1"
-    },
-    {
-        "Lager": "instock",
         "Name": "Cannamedical THC20:CBD5 - Extrakt",
         "Kultivar": "Tangie Chem",
         "THC/CBD": "20/5",
@@ -466,15 +457,6 @@
         "Genetik": "Gorilla Glue #4 x Chem Dawg",
         "Preis": 7.5,
         "Link": "https://cannabisapo24.de/products/cannamedical-hybrid-forte-ury"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Enua 22/1 CA CCK",
-        "Kultivar": "Cold Creek Kush",
-        "THC/CBD": "22/<1",
-        "Genetik": "ChemDawg91 / MK Ultra",
-        "Preis": 7.6,
-        "Link": "https://cannabisapo24.de/products/enua-22-1-ca-cck"
     },
     {
         "Lager": "instock",
@@ -3475,6 +3457,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Aurora THC 25 Extract 1",
+        "Kultivar": "LA Confidential",
+        "THC/CBD": "25/1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/aurora-thc-25-extract-1"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "AVAAY 12/8 CAN - Cannatonic",
         "Kultivar": "Cannatonic",
         "THC/CBD": "11,3/8,9",
@@ -5002,5 +4993,14 @@
         "Genetik": "Divorce Cake x Jungle Cake ",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/demecan-craft-walkie-talkie-31-01"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Demecan CRAFT zoer0 22:01",
+        "Kultivar": "Oreoz",
+        "THC/CBD": "24,3/<1",
+        "Genetik": "Cookies & Cream / Secret Weapon",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/craft-zoer0-22-01"
     }
 ]
