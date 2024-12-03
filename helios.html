@@ -1,0 +1,79 @@
+
+    <html>
+    <head>
+        <title>Helios Preisliste</title>
+        <style>
+            body {background-color: #000; color: #fff;}
+            table {width: 100%; border-collapse: collapse;}
+            th, td {padding: 8px; text-align: left; border-bottom: 1px solid #ddd;}
+            th {background-color: #444; cursor: pointer;}
+            .instock {background-color: #2a5;} /* green */
+            .outofstock {background-color: #fc3;} /* yellow */
+            .instock td, .outofstock td {color: #000;}
+        </style>
+        <script>
+            function sortTable(n, numeric) {
+                var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+                table = document.getElementById("productTable");
+                switching = true;
+                dir = "asc";
+                while (switching) {
+                    switching = false;
+                    rows = table.rows;
+                    for (i = 1; i < (rows.length - 1); i++) {
+                        shouldSwitch = false;
+                        x = rows[i].getElementsByTagName("TD")[n];
+                        y = rows[i + 1].getElementsByTagName("TD")[n];
+                        if (numeric) {
+                            xContent = parseFloat(x.innerHTML);
+                            yContent = parseFloat(y.innerHTML);
+                        } else {
+                            xContent = x.innerHTML.toLowerCase();
+                            yContent = y.innerHTML.toLowerCase();
+                        }
+                        if (dir == "asc") {
+                            if (xContent > yContent) {
+                                shouldSwitch = true;
+                                break;
+                            }
+                        } else if (dir == "desc") {
+                            if (xContent < yContent) {
+                                shouldSwitch = true;
+                                break;
+                            }
+                        }
+                    }
+                    if (shouldSwitch) {
+                        rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+                        switching = true;
+                        switchcount++;
+                    } else {
+                        if (switchcount == 0 && dir == "asc") {
+                            dir = "desc";
+                            switching = true;
+                        }
+                    }
+                }
+            }
+        </script>
+    </head>
+    <body>
+        <table id="productTable">
+            <tr>
+                <th onclick="sortTable(0, false)">Lager</th>
+                <th onclick="sortTable(1, true)">Preis</th>
+                <th onclick="sortTable(2, false)">Name</th>
+                <th onclick="sortTable(3, false)">Kultivar</th>
+                <th onclick="sortTable(4, false)">THC/CBD</th>
+                <th onclick="sortTable(5, false)">Genetik</th>
+                <th>Link</th>
+            </tr>
+    
+        </table>
+        <script>
+            if (Date.parse(document.lastModified) != 0) 
+                document.write('<p><hr><small><i>Last modified: ' + document.lastModified + '</i></small>');
+        </script>
+    </body>
+    </html>
+    
