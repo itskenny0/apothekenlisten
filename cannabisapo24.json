@@ -55,15 +55,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "Naxiva-Panaxol THC50/CBD50 - Extrakt",
-        "Kultivar": "keine Angabe",
-        "THC/CBD": "50/50",
-        "Genetik": "",
-        "Preis": 3.99,
-        "Link": "https://cannabisapo24.de/products/naxiva-panaxol-thc50-cbd50-extrakt"
-    },
-    {
-        "Lager": "instock",
         "Name": "RE:CANNIS 5/1 - Extrakt",
         "Kultivar": null,
         "THC/CBD": "5/1",
@@ -244,15 +235,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "madrecan 21/1 HFG HIFI 4G",
-        "Kultivar": "HIFI 4G",
-        "THC/CBD": "21,0/<1",
-        "Genetik": "",
-        "Preis": 5.95,
-        "Link": "https://cannabisapo24.de/products/madrecan-21-1-hfg-hifi-4g"
-    },
-    {
-        "Lager": "instock",
         "Name": "Social Choice! 18/1 FLX MTS",
         "Kultivar": "Manantiales",
         "THC/CBD": "18,0/<1",
@@ -406,6 +388,24 @@
     },
     {
         "Lager": "instock",
+        "Name": "Huala 25/1 CA ALM",
+        "Kultivar": "Alien Mints",
+        "THC/CBD": "24,6/<1",
+        "Genetik": "Alien Cookies x Animal Mints",
+        "Preis": 6.43,
+        "Link": "https://cannabisapo24.de/products/huala-25-1-ca-alm"
+    },
+    {
+        "Lager": "instock",
+        "Name": "Big Dreams 24/1 PSF BAA Baked Animal",
+        "Kultivar": "Baked Animal",
+        "THC/CBD": "24,2/<1",
+        "Genetik": "Animal Face x Baker's Delight",
+        "Preis": 6.55,
+        "Link": "https://cannabisapo24.de/products/big-dreams-24-1-psf-baa-baked-animal"
+    },
+    {
+        "Lager": "instock",
         "Name": "Social Choice! 24/1 ICS",
         "Kultivar": "Driftwood Diesel",
         "THC/CBD": "22,8/<1",
@@ -493,15 +493,6 @@
         "Genetik": "",
         "Preis": 6.89,
         "Link": "https://cannabisapo24.de/products/navcora-thc18-spotlight-porto-sirius"
-    },
-    {
-        "Lager": "instock",
-        "Name": "420 SUNGROWN 25/1 CA JEL",
-        "Kultivar": "Jealousy",
-        "THC/CBD": "25,54/<1",
-        "Genetik": "Gelato 41  x Sherbet Bx1",
-        "Preis": 6.9,
-        "Link": "https://cannabisapo24.de/products/420-sungrown-25-1-ca-jel"
     },
     {
         "Lager": "instock",
@@ -970,15 +961,6 @@
         "Genetik": "",
         "Preis": 7.74,
         "Link": "https://cannabisapo24.de/products/tilray-thc18-spotlight-porto-sour-diesel"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Tilray THC18 Spotlight Porto - White Widow",
-        "Kultivar": "White Widow",
-        "THC/CBD": "19,1/<1",
-        "Genetik": "",
-        "Preis": 7.74,
-        "Link": "https://cannabisapo24.de/products/tilray-thc18-spotlight-porto-white-widow"
     },
     {
         "Lager": "instock",
@@ -1504,15 +1486,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "27/1 N!CE S",
-        "Kultivar": "Strawberry Banana",
-        "THC/CBD": "24,6/<1",
-        "Genetik": "",
-        "Preis": 8.68,
-        "Link": "https://cannabisapo24.de/products/27-1-n-ce-s"
-    },
-    {
-        "Lager": "instock",
         "Name": "AVAAY 24/1 CRE",
         "Kultivar": "Creamy Kees No. 5",
         "THC/CBD": "24,6/<1",
@@ -1609,15 +1582,6 @@
         "Genetik": "",
         "Preis": 8.89,
         "Link": "https://cannabisapo24.de/products/c-c-cannabis-23-1"
-    },
-    {
-        "Lager": "instock",
-        "Name": "26/1 N!CE C",
-        "Kultivar": "Cherry Pie",
-        "THC/CBD": "24,2/<0,1",
-        "Genetik": "",
-        "Preis": 8.91,
-        "Link": "https://cannabisapo24.de/products/26-1-n-ce-c"
     },
     {
         "Lager": "instock",
@@ -2035,6 +1999,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "Enua 25/1 GGZ CA Gogurtz",
+        "Kultivar": "Gogurtz",
+        "THC/CBD": "25,59/<1",
+        "Genetik": "Cap Junky x Runtz",
+        "Preis": 9.52,
+        "Link": "https://cannabisapo24.de/products/enua-25-1-ggz-ca-gogurtz"
+    },
+    {
+        "Lager": "instock",
         "Name": "Roxton Air BD",
         "Kultivar": "Flap Jacks",
         "THC/CBD": "24,0 /<1",
@@ -2401,15 +2374,6 @@
         "Genetik": "Glazed Apricot Gelato / Grape Gasoline",
         "Preis": 10.12,
         "Link": "https://cannabisapo24.de/products/green-karat-fs"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Ostara Balance",
-        "Kultivar": "Long Valley Legend",
-        "THC/CBD": "8,6/<12,0",
-        "Genetik": "Nubia x Fireball",
-        "Preis": 10.12,
-        "Link": "https://cannabisapo24.de/products/ostara-balance"
     },
     {
         "Lager": "instock",
@@ -3322,12 +3286,30 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "26/1 N!CE C",
+        "Kultivar": "Cherry Pie",
+        "THC/CBD": "24,2/<0,1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/26-1-n-ce-c"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "27/1 Amici AS",
         "Kultivar": "Atomic Sour Grapefruit",
         "THC/CBD": "25,1/<1",
         "Genetik": "Chemdawg / San Fernando Valley OG Kush",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/27-1-amici-as"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "27/1 N!CE S",
+        "Kultivar": "Strawberry Banana",
+        "THC/CBD": "24,6/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/27-1-n-ce-s"
     },
     {
         "Lager": "outofstock",
@@ -3598,6 +3580,15 @@
         "Genetik": "Gorilla Glue 4 / Jack Herer",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/420-natural-27-1-ca-zrp"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "420 SUNGROWN 25/1 CA JEL",
+        "Kultivar": "Jealousy",
+        "THC/CBD": "25,54/<1",
+        "Genetik": "Gelato 41  x Sherbet Bx1",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-sungrown-25-1-ca-jel"
     },
     {
         "Lager": "outofstock",
@@ -5860,15 +5851,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "Huala 25/1 CA ALM",
-        "Kultivar": "Alien Mints",
-        "THC/CBD": "24,6/<1",
-        "Genetik": "Alien Cookies x Animal Mints",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/huala-25-1-ca-alm"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "IMC 1/14 Hybrid C01",
         "Kultivar": "God Bud",
         "THC/CBD": "0,7/14,5",
@@ -6166,6 +6148,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "madrecan 21/1 HFG HIFI 4G",
+        "Kultivar": "HIFI 4G",
+        "THC/CBD": "21,0/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/madrecan-21-1-hfg-hifi-4g"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "madrecan 21/1 Mac 2.0",
         "Kultivar": "Mac 2.0",
         "THC/CBD": "19,6/1",
@@ -6373,6 +6364,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Naxiva-Panaxol THC50/CBD50 - Extrakt",
+        "Kultivar": "keine Angabe",
+        "THC/CBD": "50/50",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/naxiva-panaxol-thc50-cbd50-extrakt"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Nimbus easy 22/1 - La Sage",
         "Kultivar": "La Sage",
         "THC/CBD": "23,1/<1",
@@ -6460,6 +6460,15 @@
         "Genetik": "Chemdawg x OG Kush",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/origine-nature-chem"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Ostara Balance",
+        "Kultivar": "Long Valley Legend",
+        "THC/CBD": "8,6/<12,0",
+        "Genetik": "Nubia x Fireball",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/ostara-balance"
     },
     {
         "Lager": "outofstock",
@@ -6991,6 +7000,15 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/tilray-thc-18-spotlight-porto-master-kush"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Tilray THC18 Spotlight Porto - White Widow",
+        "Kultivar": "White Widow",
+        "THC/CBD": "19,1/<1",
+        "Genetik": "",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/tilray-thc18-spotlight-porto-white-widow"
     },
     {
         "Lager": "outofstock",
