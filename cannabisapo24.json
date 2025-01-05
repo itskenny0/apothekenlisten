@@ -748,6 +748,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "ACA 24/1 C",
+        "Kultivar": "Frosted Lemon Angel",
+        "THC/CBD": "23,3/<1",
+        "Genetik": "",
+        "Preis": 7.62,
+        "Link": "https://cannabisapo24.de/products/aca-24-1-c"
+    },
+    {
+        "Lager": "instock",
         "Name": "BC GREEN 17/1 A&B Apples & Bananas",
         "Kultivar": "Apples and Bananas",
         "THC/CBD": "16,4/<1",
@@ -1159,15 +1168,6 @@
         "Genetik": "OG Kush x SFV OG IBL",
         "Preis": 7.98,
         "Link": "https://cannabisapo24.de/products/cm-24-1-og-kush"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Cookies 22/1 HR Hawaiian Rain",
-        "Kultivar": "Hawaiian Rain",
-        "THC/CBD": "21,9/<1",
-        "Genetik": "London Pound Mintz x Jealousy",
-        "Preis": 7.98,
-        "Link": "https://cannabisapo24.de/products/cookies-22-1-hr-hawaiian-rain"
     },
     {
         "Lager": "instock",
@@ -2368,6 +2368,15 @@
     },
     {
         "Lager": "instock",
+        "Name": "420 Evolution 27/1 CA FLM",
+        "Kultivar": "Frozen Lemon Mints",
+        "THC/CBD": "26,27/<1",
+        "Genetik": "Cap's Frozen Lemon x Kush Mints 11",
+        "Preis": 10.23,
+        "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-flm"
+    },
+    {
+        "Lager": "instock",
         "Name": "Pedanios 24/1 LAC-CA",
         "Kultivar": "LA Confidential (LAC)",
         "THC/CBD": "22,0/<1",
@@ -2800,15 +2809,6 @@
     },
     {
         "Lager": "instock",
-        "Name": "420 Evolution 27/1 CA MMI Miracle Mints",
-        "Kultivar": "Miracle Mints",
-        "THC/CBD": "26,53/<1",
-        "Genetik": "Alien Cookies x Kush Mints #11",
-        "Preis": 11.31,
-        "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-mmi-miracle-mints"
-    },
-    {
-        "Lager": "instock",
         "Name": "Cannamedical Hybrid forte DK - Ghost Train Haze",
         "Kultivar": "Ghost Train Haze",
         "THC/CBD": "22,0/<1",
@@ -2995,15 +2995,6 @@
         "Genetik": "",
         "Preis": 12.61,
         "Link": "https://cannabisapo24.de/products/demecan-craft-marker-28-01"
-    },
-    {
-        "Lager": "instock",
-        "Name": "Demecan Craft Walkie Talkie 31:01",
-        "Kultivar": "Sugar Cake",
-        "THC/CBD": "29,9/<1",
-        "Genetik": "Divorce Cake x Jungle Cake ",
-        "Preis": 12.61,
-        "Link": "https://cannabisapo24.de/products/demecan-craft-walkie-talkie-31-01"
     },
     {
         "Lager": "instock",
@@ -3385,15 +3376,6 @@
     },
     {
         "Lager": "outofstock",
-        "Name": "420 Evolution 27/1 CA FLM",
-        "Kultivar": "Frozen Lemon Mints",
-        "THC/CBD": "26,27/<1",
-        "Genetik": "Cap's Frozen Lemon x Kush Mints 11",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-flm"
-    },
-    {
-        "Lager": "outofstock",
         "Name": "420 Evolution 27/1 CA GMO",
         "Kultivar": "GMO",
         "THC/CBD": "27,39/<1",
@@ -3409,6 +3391,15 @@
         "Genetik": "Ice Cream Cake x Kush Mints #11",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-icc"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "420 Evolution 27/1 CA MMI Miracle Mints",
+        "Kultivar": "Miracle Mints",
+        "THC/CBD": "26,53/<1",
+        "Genetik": "Alien Cookies x Kush Mints #11",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/420-evolution-27-1-ca-mmi-miracle-mints"
     },
     {
         "Lager": "outofstock",
@@ -3616,15 +3607,6 @@
         "Genetik": "",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/aca-18-1-c"
-    },
-    {
-        "Lager": "outofstock",
-        "Name": "ACA 24/1 C",
-        "Kultivar": "Frosted Lemon Angel",
-        "THC/CBD": "23,3/<1",
-        "Genetik": "",
-        "Preis": Infinity,
-        "Link": "https://cannabisapo24.de/products/aca-24-1-c"
     },
     {
         "Lager": "outofstock",
@@ -5428,6 +5410,15 @@
     },
     {
         "Lager": "outofstock",
+        "Name": "Cookies 22/1 HR Hawaiian Rain",
+        "Kultivar": "Hawaiian Rain",
+        "THC/CBD": "21,9/<1",
+        "Genetik": "London Pound Mintz x Jealousy",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/cookies-22-1-hr-hawaiian-rain"
+    },
+    {
+        "Lager": "outofstock",
         "Name": "Costa Canna Dynamics - fortissimo",
         "Kultivar": "Liberty Haze",
         "THC/CBD": "31,3/<1",
@@ -5578,6 +5569,15 @@
         "Genetik": "Wedding Cake / Kush Mints",
         "Preis": Infinity,
         "Link": "https://cannabisapo24.de/products/demecan-craft-tricolo-27-01"
+    },
+    {
+        "Lager": "outofstock",
+        "Name": "Demecan Craft Walkie Talkie 31:01",
+        "Kultivar": "Sugar Cake",
+        "THC/CBD": "29,9/<1",
+        "Genetik": "Divorce Cake x Jungle Cake ",
+        "Preis": Infinity,
+        "Link": "https://cannabisapo24.de/products/demecan-craft-walkie-talkie-31-01"
     },
     {
         "Lager": "outofstock",
